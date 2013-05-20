@@ -1,0 +1,171 @@
+bien señores, este tip los va a ayudar a crear su primer plugin para Wordpress
+para lo cual crearemos un archivo llamado saludo.php en la carpeta llamada saludo ubicada en
+carpeta_raiz/wp-content/plugins/
+quedando:
+carpeta_raiz/wp-content/plugins/saludo/saludo.php
+vamos a empesar por lo basico
+el saludo:
+<?php
+	/*
+		Plugin Name: nombre del plugin
+		Plugin URI: url oficial de tu maravilloso plugin
+		Description: que carajos hace tu plugin
+		Version: numero de intentos para que esta cosa resulte
+		Author: Nombre del mono programador
+		Author URI: url del mono programador
+	*/
+	
+	/*
+		estos aparecerá directamente en el panel de 
+		administración de plugins
+	*/ 
+?>
+una vez presentado crearemos nuestra una función con un código algo complejo pero de gran performance en el mismo archivo.
+<?php
+// ya sabemos que hay arriba  /\  
+
+	function saludo(){
+		echo 'hola mundo';	
+	}
+	
+?>
+ahora nos toca poder instalar y desinstalar este plugin para lo cual crearemos 2 funciones una para instalar y otra para desinstalar el plugin, estas funciones por ahora las dejaremos vacias, una ves listas las funciones al final del archivo usaras la funcion de WP add_action para instalar y desinstalar el plugin.
+usando la siguiente sintaxis: 
+add_action( 
+	'activate_nombre_del_plugin/pagina_del_plugin.php',
+	'tu_funcion_que instala'
+);
+<?php
+// ya sabemos que hay arriba  /\  
+	function saludo_instala(){
+		//	
+	}
+	function saludo_desinstala(){
+		//	
+	}	
+//ojo con la sintaxis de la funcion add_action 
+add_action('activate_saludo/saludo.php','saludo_instala');
+add_action('deactivate_saludo/saludo.php', 'saludo_desinstala');
+?>
+
+ahora ya puedes usar tu maravilloso y complejo plugin solo debes colocar en la seccion de tu template que estimes conveniente lo siguiente 
+<?php saludo(); ?>
+
+ahora nos toca crear un item dentro del panel de administración que nos permita modificar las opciones de este maravilloso plugin, este item lo crearemos dentro del menu opciones
+para esto contaremos  con 3 funciones:
+[list]
+[*]saludo_panel: donde incluiremos el html que sera expresado en nuestro panel, como a mi no me gusta mesclar html dentro de la programacion usaremos la función include() a modo de template .
+[*]saludo_add_menu: donde se usara a su vez la función de  WP add_options_page.
+[*]add_action: para desencadenar todo esto usaremos esta funcion que es tambien parte del API de WP.
+[/list]
+<?php
+// ya sabemos que hay arriba  /\ 
+	
+	function saludo_panel(){		
+		include('template/panel.html');
+	}
+	function saludo_add_menu(){	
+		if (function_exists('add_options_page')) {
+			//add_menu_page
+			add_options_page('saludo', 'saludo', 8, basename(__FILE__), 'saludo_panel');
+		}
+	}
+	if (function_exists('add_action')) {
+		add_action('admin_menu', 'saludo_add_menu'); 
+	} 
+		
+// ya sabemos que hay abajo   \/  
+?>
+crea el archivo y carpeta "template/panel.html" pues vamos a escribir un fromulario muy sencillo para que veamos que esto va resultando 
+<form method="post" action="" id="saludo">
+<label for="saludo_inserta" accesskey="s">Inserte su saludo<input type='text' id='saludo_inserta'  name='saludo_inserta' value='' /></label>
+<input type='submit' name='' value='enviar' />
+</form>
+y modificaremos la funcion saludo_panel para poder visualizar nuestros logros
+<?php
+// ya sabemos que hay arriba  /\ 
+	
+	function saludo_panel(){		
+		include('template/panel.html');
+	}
+	echo "<h1>{$_POST['saludo']}</h1>";
+	
+// ya sabemos que hay abajo   \/  
+?>
+ahora probaremos que esto resulta escribiendo la siguiente verdad  "Joomla apesta". Si al pulsar 'enviar' aparece esto significa que vamos bien.
+
+ahora desinstalaremos el  plugin en el panel de control, no es que vayamos a dejar de usar nuestro maravilloso plugin solo es que modificaremos la función saludo_instala() y  saludo_desinstala() para poder instalar y desinstalar respectivamente la DB que usaremos mas adelante.
+ojo para usar las funciones de WP que manejan la  DB tendremos que llamar  $wpdb  con: global $wpdb; 
+<?php
+// ya sabemos que hay arriba  /\ 
+
+function saludo_instala(){
+	global $wpdb; // <-- sin esto no funcionara nada con la DB no cambies nada
+	$table_name= $wpdb->prefix . "saludos";
+   $sql = " CREATE TABLE $table_name(
+		id mediumint( 9 ) NOT NULL AUTO_INCREMENT ,
+		saludo tinytext NOT NULL ,
+		PRIMARY KEY ( `id` )	
+	) ;";
+	$wpdb->query($sql);
+	$sql = "INSERT INTO $table_name (saludo) VALUES ('Hola Mundo');";
+	$wpdb->query($sql);
+}	
+
+function saludo_desinstala(){
+	global $wpdb; 
+	$tabla_nombre = $wpdb->prefix . "saludos";
+	$sql = "DROP TABLE $tabla_nombre";
+	$wpdb->query($sql);
+}	
+	
+// ya sabemos que hay abajo   \/  
+?>
+ahora agregaremos datos a la  DB desde nuestro panel en opciones/saludo para lo cual modificaremos la función saludo_panel()
+<?php
+// ya sabemos que hay arriba  /\ 
+
+function saludo_panel(){
+	include('template/panel.html');			
+	global $wpdb; 
+	$table_name = $wpdb->prefix . "saludos";
+	if(isset($_POST['saludo_inserta'])){	
+			$sql = "INSERT INTO $table_name (saludo) VALUES ('{$_POST['saludo_inserta']}');";
+			$wpdb->query($sql);
+	}
+}
+		
+// ya sabemos que hay abajo   \/  
+?>
+
+ahora que ya podemos insertar saludos en nuestra DB solo nos queda poder mostrarlos en nuestra funcion saludo() para esto consultaremos tan solo 1 saludo de manera random a nuestra DB (ojo con el sql)
+
+<?php
+// ya sabemos que hay arriba  /\ 
+
+function saludo(){
+	global $wpdb; 
+	$table_name = $wpdb->prefix . "saludos";
+	$saludo= $wpdb->get_var("SELECT saludo FROM $table_name ORDER BY RAND() LIMIT 0, 1; " );
+	include('template/saludo.html');		
+}
+	
+// ya sabemos que hay abajo   \/  
+?>
+
+ahora modificaremos nuestro saludo.html para que imprima la variable $saludo
+<h1><?php echo $saludo;?></h1>
+
+para terminar vamos modificar el html de nuestro panel para que se adapte al html del administrador de WP
+ 
+ <div class="wrap"> 
+	<form method="post" action="">
+		<fieldset>
+			<legend>Ingresar Nuevo Saludo</legend>
+			<label for="saludo" accesskey="s">Inserte su saludo<input type='text' id='saludo_inserta'  name='saludo_inserta'  /></label>
+			<input type='submit' name='' value='enviar' />
+		</fieldset>
+	</form>
+</div>
+ 
+ya tenemos listo nuestro plugin, tambien podriamos eliminar registros, pero eso se los dejo a su imaginación.
