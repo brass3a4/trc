@@ -36,13 +36,13 @@ function csv_panel(){
 	//$saludo = $_FILES['archivo']['tmp_name'];
 	
 	$saludos = file_get_contents($_FILES['archivos']['tmp_name']);
-	$saludos = explode('&', $saludos);
+	$saludos = explode("\n", $saludos);
 
 	foreach($saludos as $saludo){
             
-        $obtener_datos = explode('¬', $saludo);
+        $obtener_datos = explode("\t", $saludo);
                 
-        $derechos[trim($obtener_datos[0])] = array('derechoAfectadoN1Id' => trim($obtener_datos[0]), 'descripcion' => trim($obtener_datos[1]));
+        $derechos[trim($obtener_datos[0])] = array('video_id' => trim($obtener_datos[0]), 'watch_views' => trim($obtener_datos[1]));
 
     }
 
