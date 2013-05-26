@@ -26,6 +26,7 @@ function leecsv_instala(){
 		id_registro mediumint( 9 ) NOT NULL AUTO_INCREMENT ,
 		provider varchar(15),
 		provider_contry varchar(15),
+		vendor_identifier varchar(15),
 		PRIMARY KEY ( `id_registro` )	
 	) ;";
 	$wpdb->query($sql);
@@ -48,7 +49,7 @@ function csv_panel(){
 	            
 	        $obtener_datos = explode("\t", $saludo);
 	                
-	        $registros[$i] = array('provider' => trim($obtener_datos[0]), 'provider_contry' => trim($obtener_datos[2]));
+	        $registros[$i] = array('provider' => trim($obtener_datos[0]), 'provider_contry' => trim($obtener_datos[1]), 'vendor_identifier'=> trim($obtener_datos[2]));
 	        $i++;
 	    }
 
@@ -57,7 +58,7 @@ function csv_panel(){
 
 		foreach ($registros as $registro) {
 		
-			$sql = " INSERT INTO $table_name (provider,provider_contry) VALUES ('{$registro['provider']}','{$registro['provider_contry']}');";
+			$sql = " INSERT INTO $table_name (provider,provider_contry,vendor_identifier) VALUES ('{$registro['provider']}','{$registro['provider_contry']}','{$registro['vendor_identifier']}');";
 			$wpdb->query($sql);	
 
 		}
@@ -70,10 +71,10 @@ function csv_panel(){
 		$sql3 = "DELETE FROM $table_name WHERE id_registro = $consulta;";
 		$wpdb->query($sql3);
 
-
+		include('template/msj.html');
 	}
 
-	include('template/msj.html');
+	
 }
 
 function saludo_add_menu(){	

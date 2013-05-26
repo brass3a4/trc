@@ -1,4 +1,26 @@
-<pre>
-<?php echo "Listo!";?>
-<?php print_r($res); ?>
-</pre>
+<!-- <pre><?php print_r($res); ?></pre> -->
+
+<table border="1">
+<tr>
+	<th>id registro</th>
+	<th>provider</th>
+	<th>provider contry</th>
+	<th>vendor identifier</th>
+</tr>
+<?php foreach ($res as $row){
+	echo "<tr>";
+		echo "<td>";
+			echo $row['id_registro'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['provider'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['provider_contry'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['vendor_identifier'];
+		echo "</td>";
+	echo "</tr>";
+}?>
+</table>
