@@ -7,6 +7,8 @@ Version: 0.1
 Author: brass3a4
 Author URI: 
 */	
+
+global $obtener;
 function muestra_contenido(){
 	global $wpdb; 
 	$table_name = $wpdb->prefix . "csv";
@@ -38,43 +40,62 @@ function leecsv_desinstala(){
 	$wpdb->query($sql);
 }	
 function csv_panel(){
+
+	
 	include('template/panel.html');		
 	//$saludo = $_FILES['archivo']['tmp_name'];
 	
 	if(isset($_FILES) && !empty($_FILES)){
+
 		$saludos = file_get_contents($_FILES['archivos']['tmp_name']);
 		$saludos = explode("\n", $saludos);
 		$i=1;
 		foreach($saludos as $saludo){
 	            
-	        $obtener_datos = explode("\t", $saludo);
-	                
-	        $registros[$i] = array('provider' => trim($obtener_datos[0]), 'provider_contry' => trim($obtener_datos[1]), 'vendor_identifier'=> trim($obtener_datos[2]));
+	        $obtener_datos[$i] = explode("\t", $saludo);
 	        $i++;
 	    }
+	    $GLOBALS['obtener'] = $obtener_datos;
+	    array_pop($obtener_datos);
 
-	    global $wpdb; 
-		$table_name= $wpdb->prefix . "csv";
-
-		foreach ($registros as $registro) {
+		include('template/msj.html');	
 		
-			$sql = " INSERT INTO $table_name (provider,provider_contry,vendor_identifier) VALUES ('{$registro['provider']}','{$registro['provider_contry']}','{$registro['vendor_identifier']}');";
-			$wpdb->query($sql);	
-
-		}
-
-		//obtenemos el ultimo campo insertado para eliminarlo después
-		$sql2 = "SELECT MAX(id_registro) FROM $table_name;";
-		$consulta = $wpdb->get_var($sql2);
-
-		//como se agrega un campo vacio al final lo eliminamos
-		$sql3 = "DELETE FROM $table_name WHERE id_registro = $consulta;";
-		$wpdb->query($sql3);
-
-		include('template/msj.html');
+		
 	}
 
+	if(isset($_POST) && !empty($_POST)){
+		guarda_columnas($_POST);
+	}
 	
+}
+
+function guarda_columnas($post){
+	$datos = $post;
+
+
+
+	
+
+
+
+	include('template/guarda.html');
+	//global $wpdb; 
+	// $table_name= $wpdb->prefix . "csv";
+
+	// foreach ($registros as $registro) {
+	
+	// 	$sql = " INSERT INTO $table_name (provider,provider_contry,vendor_identifier) VALUES ('{$registro['provider']}','{$registro['provider_contry']}','{$registro['vendor_identifier']}');";
+	// 	$wpdb->query($sql);	
+
+	// }
+
+	// //obtenemos el ultimo campo insertado para eliminarlo después
+	// $sql2 = "SELECT MAX(id_registro) FROM $table_name;";
+	// $consulta = $wpdb->get_var($sql2);
+
+	// //como se agrega un campo vacio al final lo eliminamos
+	// $sql3 = "DELETE FROM $table_name WHERE id_registro = $consulta;";
+	// $wpdb->query($sql3);
 }
 
 function saludo_add_menu(){	
