@@ -8,7 +8,19 @@ Author: brass3a4
 Author URI: 
 */	
 
-global $obtener;
+function agregar_scripts(){
+
+	$handle = 'ammap';
+    $js = plugins_url('statics/ammap/ammap/ammap.js',__FILE__);
+
+    wp_register_style( 'ammapcss', plugins_url('statics/ammap/ammap/ammap.css',__FILE__));
+
+    wp_register_script( $handle, $js );
+    wp_register_script( 'jsworld', plugins_url('statics/ammap/ammap/maps/js/worldLow.js',__FILE__));
+    wp_enqueue_script( $handle );
+    wp_enqueue_script( 'jsworld' );
+    wp_enqueue_style( 'ammapcss' );
+}
 function muestra_contenido(){
 	global $wpdb; 
 	$table_name = $wpdb->prefix . "csv";
@@ -21,6 +33,13 @@ function muestra_contenido(){
 	}
 	include('template/saludo.html');		
 }
+
+function muestra_reportes(){
+
+	$url=plugins_url('statics/ammap/',__FILE__);
+	include('template/reportes.html');	
+}
+
 function leecsv_instala(){
 	global $wpdb; 
 	$table_name= $wpdb->prefix . "csv";
@@ -55,7 +74,6 @@ function csv_panel(){
 	        $obtener_datos[$i] = explode("\t", $saludo);
 	        $i++;
 	    }
-	    $GLOBALS['obtener'] = $obtener_datos;
 	    array_pop($obtener_datos);
 
 		include('template/msj.html');	
@@ -74,12 +92,8 @@ function guarda_columnas($post){
 
 
 
-	
-
-
-
 	include('template/guarda.html');
-	//global $wpdb; 
+	// global $wpdb; 
 	// $table_name= $wpdb->prefix . "csv";
 
 	// foreach ($registros as $registro) {
@@ -107,6 +121,7 @@ function saludo_add_menu(){
 		
 		//add_submenu_page( $parent_slug, $page_title, $menu_title, $capability, $menu_slug, $function );
 		add_submenu_page('qwery', 'Muestra contenido', 'Muestra contenido', 8, 'slug_segunda_opcion_de_menu', 'muestra_contenido');
+		add_submenu_page('qwery', 'Reportes', 'Reportes', 8, 'slug_tercera_opcion_de_menu', 'muestra_reportes');
 		//add_menu_page('saludo2', 'saludo2', 8, 'slug_menu', 'saludo');
 	}
 }
@@ -116,4 +131,5 @@ if (function_exists('add_action')) {
 
 add_action('activate_leecsv/saludo.php','leecsv_instala');
 add_action('deactivate_leecsv/saludo.php', 'leecsv_desinstala');
+add_action( 'wp_print_scripts', 'agregar_scripts' );
 ?>
