@@ -6,9 +6,15 @@
         var map = new AmCharts.AmMap();
         // set path to images
         map.pathToImages = "<?=$url;?>/ammap/images/";
+
+
+        map.colorSteps = 5;
+        
         map.panEventsEnabled = true;
         map.backgroundColor = "#929292";
         map.backgroundAlpha = 1;
+
+        map.mouseWheelZoomEnabled = true;
         /* create data provider object
          mapVar tells the map name of the variable of the map data. You have to
          view source of the map file you included in order to find the name of the 
@@ -21,7 +27,15 @@
         */
         var dataProvider = {
 		    mapVar: AmCharts.maps.worldLow,
-		    areas:[{id:"AU", color:"#CC0000"},{id:"US", color:"#00CC00"},{id:"FR", color:"#0000CC"}]                    
+		    areas:[ {id:"AU", value:0},
+                    {id:"MX", value:2}, 
+                    {id:"US", value:3},
+                    {id:"AR", value:4},
+                    {id:"BR", value:5},
+                    {id:"IT", value:6},
+                    {id:"FR", value:7},
+                    {id:"JP", value:8}
+            ]                    
 		};  
         // pass data provider to the map object
         map.dataProvider = dataProvider;
@@ -30,14 +44,29 @@
          * autoZoom set to true means that the map will zoom-in when clicked on the area
          * selectedColor indicates color of the clicked area.
          */
-        map.areasSettings = {
-            autoZoom: true,
-            selectedColor: "#CC0000"
-        };
+        // map.areasSettings = {
+        //     autoZoom: true,
+        //     selectedColor: "#CC0000"
+        // };
     
         // let's say we want a small map to be displayed, so let's create it
-        map.smallMap = new AmCharts.SmallMap();
-    
+        //map.smallMap = new AmCharts.SmallMap();
+        
+        var valueLegend = new AmCharts.ValueLegend();
+        valueLegend.right = 100;
+        valueLegend.minValue = "Pocas Ventas";
+        valueLegend.maxValue = "Muchas ventas";
+        map.valueLegend = valueLegend;
+
+        var zoomControl = new AmCharts.ZoomControl();
+        zoomControl.maxZoomLevel = 10;
+        zoomControl.minZoomLevel = 1;
+        map.zoomControl = zoomControl
+
+        var mapArea = new AmCharts.MapArea();
+        mapArea.fixedSize = true;
+        map.mapArea = mapArea;
+
         // write the map to container div
         map.write("mapdiv");               
     	
@@ -45,4 +74,4 @@
     });
 
 </script>
-<div id="mapdiv" style="width: 600px; height: 400px;"></div>
+<div id="mapdiv" style="width: 80%; height: 600px;"></div>
