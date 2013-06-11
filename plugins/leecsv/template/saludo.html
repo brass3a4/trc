@@ -6,6 +6,7 @@
 	<th>provider</th>
 	<th>provider contry</th>
 	<th>vendor identifier</th>
+	<th>Country sales</th>
 </tr>
 <?php foreach ($res as $row){
 	echo "<tr>";
@@ -20,6 +21,9 @@
 		echo "</td>";
 		echo "<td>";
 			echo $row['vendor_identifier'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['country'];
 		echo "</td>";
 	echo "</tr>";
 }?>

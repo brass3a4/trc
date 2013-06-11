@@ -8,7 +8,7 @@
         map.pathToImages = "<?=$url;?>/ammap/images/";
 
 
-        map.colorSteps = 5;
+        map.colorSteps = 10;
         
         map.panEventsEnabled = true;
         map.backgroundColor = "#929292";
@@ -27,14 +27,14 @@
         */
         var dataProvider = {
 		    mapVar: AmCharts.maps.worldLow,
-		    areas:[ {id:"AU", value:0},
-                    {id:"MX", value:2}, 
-                    {id:"US", value:3},
-                    {id:"AR", value:4},
-                    {id:"BR", value:5},
-                    {id:"IT", value:6},
-                    {id:"FR", value:7},
-                    {id:"JP", value:8}
+		    areas:[ 
+                    <?php
+                        foreach ($res as $key => $value) {
+                            echo '{id:"'.$key.'", value:"'.$value.'"},';
+                        }
+                        
+                     ?>
+                    {id:""}
             ]                    
 		};  
         // pass data provider to the map object
@@ -74,4 +74,7 @@
     });
 
 </script>
+
+<pre><?php print_r($res); ?></pre>
+
 <div id="mapdiv" style="width: 80%; height: 600px;"></div>

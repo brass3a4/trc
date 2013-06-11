@@ -24,19 +24,32 @@ function agregar_scripts(){
 function muestra_contenido(){
 	global $wpdb; 
 	$table_name = $wpdb->prefix . "csv";
-	//$qwery= $wpdb->get_var("SELECT video_id FROM $table_name WHERE id_registro=3; " );
+	$qwery= $wpdb->get_var("SELECT video_id FROM $table_name WHERE id_registro=3; " );
 	$qwery= $wpdb->get_results("SELECT * FROM $table_name; ",ARRAY_A);
 	if (!empty($qwery)) {
 		foreach ($qwery as $rows) {
 			$res[$rows['id_registro']] = $rows;
 		}
 	}
+
 	include('template/saludo.html');		
 }
 
 function muestra_reportes(){
 
 	$url=plugins_url('statics/ammap/',__FILE__);
+
+	global $wpdb; 
+	$table_name = $wpdb->prefix . "csv";
+	$qwery= $wpdb->get_results("SELECT DISTINCT country FROM $table_name; ",ARRAY_A);
+	if (!empty($qwery)) {
+		foreach ($qwery as $key => $value) {
+			$valor = $value['country'];
+			$qwery2 = $wpdb->get_var("SELECT COUNT(country) FROM $table_name WHERE country = '$valor'; ");
+			$res[$valor] = $qwery2;
+		}
+	}
+
 	include('template/reportes.html');	
 }
 
@@ -48,6 +61,7 @@ function leecsv_instala(){
 		provider varchar(15),
 		provider_contry varchar(15),
 		vendor_identifier varchar(15),
+		country varchar(4),
 		PRIMARY KEY ( `id_registro` )	
 	) ;";
 	$wpdb->query($sql);
@@ -89,7 +103,16 @@ function csv_panel(){
 
 function guarda_columnas($post){
 	$datos = $post;
+	$datos2 = $post;
 
+	foreach ($datos as $key => $value) {
+		if ($key != 'datos') {
+			foreach ($datos2['datos'] as $key2 => $value2) {
+				$cheks = 'hola2';
+			}
+			$cheks = 'hola1';
+		}
+	}
 
 
 	include('template/guarda.html');
