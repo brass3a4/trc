@@ -140,7 +140,7 @@ function saludo_add_menu(){
 		//add_menu_page
 		
 		//add_menu_page( $page_title, $menu_title, $capability, $menu_slug, $function, $icon_url, $position );
-		add_menu_page('csv', 'Lee csv', 8, 'qwery', 'csv_panel');
+		add_menu_page('csv', 'TRC', 8, 'qwery', 'csv_panel');
 		
 		//add_submenu_page( $parent_slug, $page_title, $menu_title, $capability, $menu_slug, $function );
 		add_submenu_page('qwery', 'Muestra contenido', 'Muestra contenido', 8, 'slug_segunda_opcion_de_menu', 'muestra_contenido');
