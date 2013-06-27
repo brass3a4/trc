@@ -1,0 +1,10 @@
+Format version	Start date	End date	Recipient	Aggregator	Disclaimer
+1	10/01/12	10/31/12	The Recording Consort	The Recording Consort	Confidential
+Country	Label	Product	Currency	Total tracks	Rightholder's tracks	Pro rata share	Revenue share	Total bundles	Net revenue	Payable	EUR Payable	USD Payable
+ES	Tlen Huicani	1	EUR	12816	1	0.01	65	14283.0000	13764.7100	1.0253	1.0253	1.3286
+ES	iTinerant Classics	10	EUR	12156	1	0.01	65	1451.4000	11983.0500	0.6408	0.6408	0.8303
+ES	San Antonio Records	10	EUR	12156	1	0.01	65	1451.4000	11983.0500	0.6408	0.6408	0.8303
+ES	San Antonio Records	100	EUR	19542	1	0.01	65	245.6700	12181.9800	0.4052	0.4052	0.5250
+ES	Quindecim Recordings	15	EUR	14498	1	0.01	65	1099.4600	11803.3700	0.5292	0.5292	0.6857
+ES	San Antonio Records	15	EUR	14498	2	0.01	65	1099.4600	11803.3700	1.0584	1.0584	1.3714
+FR	Cantus Records	1	EUR	8320	1	0.01	65	9287.0000	8141.5400	1.0269	1.0269	1.3307

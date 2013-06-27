@@ -1,0 +1,775 @@
+Start Report	End Report	ISRC	Artist	Title	Album	UPC	Country	Nb of plays	Royalties	Service	Provider	provider_id	Label
+01-11-2012	30-11-2012	MX2831000001	La Reverdie	Ar Bleizi-mor	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	11	0.0167	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000001	La Reverdie	Ar Bleizi-mor	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000001	La Reverdie	Ar Bleizi-mor	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	17	0.0963	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000002	La Reverdie	O tu qui servas	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	8	0.0122	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000002	La Reverdie	O tu qui servas	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000002	La Reverdie	O tu qui servas	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000002	La Reverdie	O tu qui servas	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000003	La Reverdie	L'autrier jost'una sebissa	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	7	0.0107	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000003	La Reverdie	L'autrier jost'una sebissa	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	8	0.1193	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000003	La Reverdie	L'autrier jost'una sebissa	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	16	0.0906	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000004	La Reverdie	ChanÃ§onnete/A la cheminÃ©e/Veritatem	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	9	0.0137	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000004	La Reverdie	ChanÃ§onnete/A la cheminÃ©e/Veritatem	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000004	La Reverdie	ChanÃ§onnete/A la cheminÃ©e/Veritatem	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000005	La Reverdie	Ich was ein chint so wolgetan	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	6	0.0091	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000005	La Reverdie	Ich was ein chint so wolgetan	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000005	La Reverdie	Ich was ein chint so wolgetan	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0227	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000006	La Reverdie	Na coire ar na sleibhtibh	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0061	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000006	La Reverdie	Na coire ar na sleibhtibh	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000006	La Reverdie	Na coire ar na sleibhtibh	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000007	La Reverdie	FuwÃ«les in the frith	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0061	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000007	La Reverdie	FuwÃ«les in the frith	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000007	La Reverdie	FuwÃ«les in the frith	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0227	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000008	La Reverdie	Bryd one brere	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	7	0.0107	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000008	La Reverdie	Bryd one brere	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0227	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000009	La Reverdie	Oseletto selvaggio	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0061	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000009	La Reverdie	Oseletto selvaggio	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000009	La Reverdie	Oseletto selvaggio	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0227	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000010	La Reverdie	Aquila altera/Creatura gentile/Uccel di Dio	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0076	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000010	La Reverdie	Aquila altera/Creatura gentile/Uccel di Dio	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000010	La Reverdie	Aquila altera/Creatura gentile/Uccel di Dio	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000011	La Reverdie	Aquila altera 2	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000011	La Reverdie	Aquila altera 2	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000011	La Reverdie	Aquila altera 2	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000012	La Reverdie	I' fu' giÃ  bianch'uccel	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000012	La Reverdie	I' fu' giÃ  bianch'uccel	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000013	La Reverdie	ChosÃ¬ pensoso	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000013	La Reverdie	ChosÃ¬ pensoso	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000014	La Reverdie	Con bracchi assai	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000014	La Reverdie	Con bracchi assai	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000015	La Reverdie	Lucida pecorella	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0061	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000015	La Reverdie	Lucida pecorella	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000016	La Reverdie	L'aspido sordo	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000016	La Reverdie	L'aspido sordo	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000017	La Reverdie	En ma forest	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000017	La Reverdie	En ma forest	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000018	La Reverdie	Par mantes foys	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000018	La Reverdie	Par mantes foys	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000018	La Reverdie	Par mantes foys	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	5	0.0283	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000019	La Reverdie	Wolauff, gesell! wer jagen well	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000019	La Reverdie	Wolauff, gesell! wer jagen well	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0227	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000020	La Reverdie	Ir alten weib nu frewt ew	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000020	La Reverdie	Ir alten weib nu frewt ew	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000020	La Reverdie	Ir alten weib nu frewt ew	Bestiarium: Animals and Nature in the Middle Age	7502258850015	FR	4	0.0227	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000832	Tlen Huicani	Mosaico tabasqueÃ±o	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000833	Tlen Huicani	El buen alvaradeÃ±o	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000834	Tlen Huicani	El Herradero	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000835	Tlen Huicani	Ostiones alvaradeÃ±os	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000836	Tlen Huicani	El Butaquito	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000837	Tlen Huicani	El Rascapetate	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000838	Tlen Huicani	El Alegre	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000839	Tlen Huicani	Fiesta en mi pueblo	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000840	Tlen Huicani	DanzÃ³n a Veracruz	De MÃ©xico a Paraguay	7502258850398	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000841	Tlen Huicani	El recreo	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000842	Tlen Huicani	A mi pueblo	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000843	Tlen Huicani	El Rey de la Huasteca	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000843	Tlen Huicani	El Rey de la Huasteca	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000844	Tlen Huicani	De MÃ©xico a Paraguay	De MÃ©xico a Paraguay	7502258850398	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000244	Raquel Andueza & La GalanÃ­a	Yo soy la locura	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000244	Raquel Andueza & La GalanÃ­a	Yo soy la locura	Yo soy la locura	7502258850121	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000244	Raquel Andueza & La GalanÃ­a	Yo soy la locura	Yo soy la locura	7502258850121	FR	11	0.1641	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000244	Raquel Andueza & La GalanÃ­a	Yo soy la locura	Yo soy la locura	7502258850121	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000244	Raquel Andueza & La GalanÃ­a	Yo soy la locura	Yo soy la locura	7502258850121	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000245	Raquel Andueza & La GalanÃ­a	MarizÃ¡palos	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000245	Raquel Andueza & La GalanÃ­a	MarizÃ¡palos	Yo soy la locura	7502258850121	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000245	Raquel Andueza & La GalanÃ­a	MarizÃ¡palos	Yo soy la locura	7502258850121	FR	14	0.2088	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000245	Raquel Andueza & La GalanÃ­a	MarizÃ¡palos	Yo soy la locura	7502258850121	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000246	Raquel Andueza & La GalanÃ­a	No piense Menguilla	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000246	Raquel Andueza & La GalanÃ­a	No piense Menguilla	Yo soy la locura	7502258850121	FR	13	0.1939	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000246	Raquel Andueza & La GalanÃ­a	No piense Menguilla	Yo soy la locura	7502258850121	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000247	Raquel Andueza & La GalanÃ­a	Olvidada soys de mi	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000247	Raquel Andueza & La GalanÃ­a	Olvidada soys de mi	Yo soy la locura	7502258850121	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000247	Raquel Andueza & La GalanÃ­a	Olvidada soys de mi	Yo soy la locura	7502258850121	FR	11	0.1641	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000247	Raquel Andueza & La GalanÃ­a	Olvidada soys de mi	Yo soy la locura	7502258850121	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000248	Raquel Andueza & La GalanÃ­a	Folias	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000248	Raquel Andueza & La GalanÃ­a	Folias	Yo soy la locura	7502258850121	FR	9	0.1342	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000249	Raquel Andueza & La GalanÃ­a	Ojos pues me desdeÃ±Ã¡is	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000249	Raquel Andueza & La GalanÃ­a	Ojos pues me desdeÃ±Ã¡is	Yo soy la locura	7502258850121	FR	9	0.1342	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000250	Raquel Andueza & La GalanÃ­a	Amor en extremos tales	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000250	Raquel Andueza & La GalanÃ­a	Amor en extremos tales	Yo soy la locura	7502258850121	FR	11	0.1641	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000251	Raquel Andueza & La GalanÃ­a	Vuestra belleza SeÃ±ora	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000251	Raquel Andueza & La GalanÃ­a	Vuestra belleza SeÃ±ora	Yo soy la locura	7502258850121	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000251	Raquel Andueza & La GalanÃ­a	Vuestra belleza SeÃ±ora	Yo soy la locura	7502258850121	FR	11	0.1641	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000252	Raquel Andueza & La GalanÃ­a	SÃ© que me muero	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000252	Raquel Andueza & La GalanÃ­a	SÃ© que me muero	Yo soy la locura	7502258850121	FR	12	0.179	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000253	Raquel Andueza & La GalanÃ­a	EspaÃ±oletas	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000253	Raquel Andueza & La GalanÃ­a	EspaÃ±oletas	Yo soy la locura	7502258850121	FR	12	0.179	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000253	Raquel Andueza & La GalanÃ­a	EspaÃ±oletas	Yo soy la locura	7502258850121	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000254	Raquel Andueza & La GalanÃ­a	La AusenÃ§ia	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000254	Raquel Andueza & La GalanÃ­a	La AusenÃ§ia	Yo soy la locura	7502258850121	FR	9	0.1342	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000255	Raquel Andueza & La GalanÃ­a	Vuestros ojos	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000255	Raquel Andueza & La GalanÃ­a	Vuestros ojos	Yo soy la locura	7502258850121	FR	8	0.1193	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000256	Raquel Andueza & La GalanÃ­a	O mÃ¡s que Venus	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000256	Raquel Andueza & La GalanÃ­a	O mÃ¡s que Venus	Yo soy la locura	7502258850121	FR	7	0.1044	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000257	Raquel Andueza & La GalanÃ­a	El Baxel estÃ¡ en la playa	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000257	Raquel Andueza & La GalanÃ­a	El Baxel estÃ¡ en la playa	Yo soy la locura	7502258850121	FR	7	0.1044	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000258	Raquel Andueza & La GalanÃ­a	Solo es querer	Yo soy la locura	7502258850121	BE	2	0.014	MPLS	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000258	Raquel Andueza & La GalanÃ­a	Solo es querer	Yo soy la locura	7502258850121	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000258	Raquel Andueza & La GalanÃ­a	Solo es querer	Yo soy la locura	7502258850121	FR	9	0.1342	MBPP	The Recording Consort (MERLIN)	167	Anima e Corpo
+01-11-2012	30-11-2012	MX2831000639	Ensemble Gilles Binchois	Alleluia, Nativitas	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000639	Ensemble Gilles Binchois	Alleluia, Nativitas	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000640	Ensemble Gilles Binchois	Beata viscera	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000640	Ensemble Gilles Binchois	Beata viscera	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.016	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000641	Ensemble Gilles Binchois	Ave maris stella	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	7	0.0107	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000641	Ensemble Gilles Binchois	Ave maris stella	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000642	Ensemble Gilles Binchois	Salva nos, stella maris	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000643	Ensemble Gilles Binchois	Gaudeat devotio/Nostrum	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000644	Ensemble Gilles Binchois	O summi regis mater inclita	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000644	Ensemble Gilles Binchois	O summi regis mater inclita	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000645	Ensemble Gilles Binchois	Salve Mater, fons ortorum/Tatem	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000646	Ensemble Gilles Binchois	Haec dies quam fecit Dominus	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000647	Ensemble Gilles Binchois	Veri solis presentia	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000648	Ensemble Gilles Binchois	Dum medium silentium	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000649	Ensemble Gilles Binchois	Sol sub nube latuit	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000649	Ensemble Gilles Binchois	Sol sub nube latuit	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	4	0.0597	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000650	Ensemble Gilles Binchois	Ave Maria, fons leticie/Latus	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000651	Ensemble Gilles Binchois	Stella serena	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000652	Ensemble Gilles Binchois	Benedicamus Domino	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000660	Ensemble Gilles Binchois	Viderunt omnes Perotin	Le chant des CathÃ©drales: Notre Dame school, 12th-14th c.	7502258850275	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000793	YOA Orchestra of the Americas	Symphony No. 5 Op. 67: I Allegro con Brio	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	BE	1	0.0011	MPRM	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000793	YOA Orchestra of the Americas	Symphony No. 5 Op. 67: I Allegro con Brio	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000794	YOA Orchestra of the Americas	Symphony No. 5 Op. 67: II Andante con moto	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	BE	1	0.0011	MPRM	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000795	YOA Orchestra of the Americas	Symphony No. 5 Op. 67: III Scherzo - Allegro	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	BE	1	0.0011	MPRM	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000796	YOA Orchestra of the Americas	Symphony No. 5 Op. 67: IV Allegro con Brio	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	BE	1	0.0011	MPRM	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000797	YOA Orchestra of the Americas	Edward Elgar : Enigma Variation IX (Adagio) "Nimrod"	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	BE	1	0.0011	MPRM	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000797	YOA Orchestra of the Americas	Edward Elgar : Enigma Variation IX (Adagio) "Nimrod"	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000797	YOA Orchestra of the Americas	Edward Elgar : Enigma Variation IX (Adagio) "Nimrod"	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000797	YOA Orchestra of the Americas	Edward Elgar : Enigma Variation IX (Adagio) "Nimrod"	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	GB	1	0.0152	MBMO	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000797	YOA Orchestra of the Americas	Edward Elgar : Enigma Variation IX (Adagio) "Nimrod"	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	LU	1	0.0288	MBWE	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000798	YOA Orchestra of the Americas	Leonard Bernstein: Candide Overture	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	BE	1	0.0011	MPRM	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000798	YOA Orchestra of the Americas	Leonard Bernstein: Candide Overture	Ludwig Van Beethoven: Symphony No. 5 Op. 67 - Edward Elgar : Enigma Variation IX (Adagio) "Nimrod" - Leonard Bernstein: Candide Ov	7502258850329	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000818	Javier VÃ¡zquez Grela	Contornos musicales - I. Arpegios transfigurados	RubÃ©n L. Someso: Orquesta de cuerda, Piano, Clarinete bajo	7502258850428	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831000021	Fabrizio Cipriani	Sonata K. 304 in e minor: Allegro	Wolfgang Amadeus Mozart: Sonate Palatine, K. 301 - 305	7502258850022	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000261	Ensemble Gilles Binchois	De ma dame souvenir	Les Escholiers de Paris : Motets, songs and estampies of the 13th century	7502258850138	FR	4	0.0061	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000266	Ensemble Gilles Binchois	Dou tres douz non	Les Escholiers de Paris : Motets, songs and estampies of the 13th century	7502258850138	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000285	Ensemble Gilles Binchois	Joie, plaisance et douce nourriture	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000285	Ensemble Gilles Binchois	Joie, plaisance et douce nourriture	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000286	Ensemble Gilles Binchois	Tres douce dame que jâ€™aour	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000287	Ensemble Gilles Binchois	Un po apres le temps dâ€™autonne...	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000287	Ensemble Gilles Binchois	Un po apres le temps dâ€™autonne...	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000288	Ensemble Gilles Binchois	Plange regni/Tu qui gregem tuum ducis	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000289	Ensemble Gilles Binchois	Et tout einsi com je cuidoie...	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000290	Ensemble Gilles Binchois	O livoris feritas/Fons totius superbie	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000291	Ensemble Gilles Binchois	Et quant Nature vit ce fait...	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000292	Ensemble Gilles Binchois	Puisque ma dolour	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000293	Ensemble Gilles Binchois	Si que ces tempestes cesserent...	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000294	Ensemble Gilles Binchois	Kyrie (Messe de Nostre Dame)	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000295	Ensemble Gilles Binchois	Si que tres bien me confessay...	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000296	Ensemble Gilles Binchois	Jâ€™aim sans penser	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000297	Ensemble Gilles Binchois	Esperance	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000298	Ensemble Gilles Binchois	Quand TheseÃ¼s/Ne quier veoir	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000299	Ensemble Gilles Binchois	Damoiselle, la traÃ¯son de TheseÃ¼s...	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000300	Ensemble Gilles Binchois	Honte, paour, doubtance	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000301	Ensemble Gilles Binchois	Adont commensa Souffissance...	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000302	Ensemble Gilles Binchois	Nes que on porroit les estoilles nombrer	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000303	Ensemble Gilles Binchois	Quant leur consaus fu affinez...	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000304	Ensemble Gilles Binchois	Amours me fait dÃ©sirer	Guillaume de Machaut: Le Jugement du Roi de Navarre	7502258850145	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000322	Ensemble Gilles Binchois	Introitus: Statuit ei Dominus	Gregorian Chant	7502258850169	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000323	Ensemble Gilles Binchois	Graduale: Miserere mei Deus	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000324	Ensemble Gilles Binchois	Versiculum: Misit de celo	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000325	Ensemble Gilles Binchois	Introitus: Dominus illuminacio mea	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000326	Ensemble Gilles Binchois	Offertorium: Benedicite gentes	Gregorian Chant	7502258850169	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000327	Ensemble Gilles Binchois	Versiculum: Iubilate Deo omnis terra	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000328	Ensemble Gilles Binchois	Versiculum: In multitudine	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000329	Ensemble Gilles Binchois	Introitus: Tibi dixit	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000330	Ensemble Gilles Binchois	Offertorium/Offertoire: Filie regum	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000331	Ensemble Gilles Binchois	Versiculum: Eructavit cor meum	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000332	Ensemble Gilles Binchois	Versiculum: Virga recta est	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000333	Ensemble Gilles Binchois	Introitus: Reminiscere miserationum/Alleluia	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000334	Ensemble Gilles Binchois	Versiculum: Excita Domine	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000335	Ensemble Gilles Binchois	Prosa: Qui regis sceptra	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000336	Ensemble Gilles Binchois	Introitus: Circumdederunt me	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000337	Ensemble Gilles Binchois	Graduale: Bonum est	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000338	Ensemble Gilles Binchois	Versiculum: Ad adnunciandum	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000339	Ensemble Gilles Binchois	Introitus: In medio ecclesie	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000340	Ensemble Gilles Binchois	Offertorium/Offertoire: Domine, in auxilium	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000341	Ensemble Gilles Binchois	Versiculum: Avertantur retrorsum	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000342	Ensemble Gilles Binchois	Introitus: Viri Galilei/Alelluia	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000343	Ensemble Gilles Binchois	Versiculum: Pascha nostrum	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000344	Ensemble Gilles Binchois	Versiculum: Epulemur	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000345	Ensemble Gilles Binchois	Introitus: Domine ne longe	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000346	Ensemble Gilles Binchois	Tractus: Adtende celum	Gregorian Chant	7502258850169	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000387	La Venexiana	A mirarvi io son intento: Ma lâ€™amor	George Frideric Handel: The 10 duetti italiani	7502258850183	FR	2	0.0186	MBSO	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000406	La Venexiana	Troppo cruda: Troppo cruda	George Frideric Handel: The 10 duetti italiani	7502258850183	HN	2	0.1193	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000452	Juan Carlos Rivera	Diferencias de FolÃ­as	TaÃ±er de Gala: vihuela music	7502258850213	FR	7	0.0396	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000453	Juan Carlos Rivera	Soneto contrahecho a la sonada de Benedicto	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000454	Juan Carlos Rivera	Soneto lombardo a la manera de danÃ§a	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000455	Juan Carlos Rivera	Soneto VIII	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000456	Juan Carlos Rivera	La Romanesca en tres maneras	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000457	Juan Carlos Rivera	CanciÃ³n del Emperador (Mille Regres)	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000458	Juan Carlos Rivera	Cuatro diferencias sobre GuÃ¡rdame las vacas	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000459	Juan Carlos Rivera	Pavana V	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000460	Juan Carlos Rivera	Fantasia XI, de consonancias y redobles	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000461	Juan Carlos Rivera	Pavanas IV & VI	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000462	Juan Carlos Rivera	Dezilde al cavallero que	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000463	Juan Carlos Rivera	Si me llaman, a mi llaman	TaÃ±er de Gala: vihuela music	7502258850213	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000464	Juan Carlos Rivera	Seis diferencias de Bacas (II)	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000465	Juan Carlos Rivera	Recercata I	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000466	Juan Carlos Rivera	Recercata XXX	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000467	Juan Carlos Rivera	Recercata XXVIII	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000468	Juan Carlos Rivera	Cuatro diferencias sobre la Pavana	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000469	Juan Carlos Rivera	Soneto IX	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000470	Juan Carlos Rivera	Soneto XV	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000471	Juan Carlos Rivera	Soneto XIX	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000472	Juan Carlos Rivera	Fantasia XVIII, de consonancias y redobles	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000473	Juan Carlos Rivera	Pavana II	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000474	Juan Carlos Rivera	Fantasia VI	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000475	Juan Carlos Rivera	Fantasia IV	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000476	Juan Carlos Rivera	Seis diferencias de Bacas (I)	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000477	Juan Carlos Rivera	Recercata XXXI	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000478	Juan Carlos Rivera	Recercata XXI	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000479	Juan Carlos Rivera	Recercata XIV	TaÃ±er de Gala: vihuela music	7502258850213	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000480	Michael Craddock	Fantasie II	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000486	Michael Craddock	La Pavane precedente plus diminuÃ©e	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000487	Michael Craddock	Gaillarde Si je mâ€™en vois	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000488	Michael Craddock	La Gaillarde precedente plus diminuÃ©e	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000489	Michael Craddock	Fantasie V	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000490	Michael Craddock	La la la je ne lâ€™ose dire	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000491	Michael Craddock	O Passi sparsy	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000492	Michael Craddock	Il estoit une fillette en basse-dance	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000493	Michael Craddock	Tourdion â€“ Plus diminuÃ©	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000512	Michael Craddock	Ma bouche rit	Tabulatures de Guiterne: music for Renaissance guitar	7502258850220	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000515	Ensemble Gilles Binchois	Introitus: Gaudeamus omnes in domino	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000515	Ensemble Gilles Binchois	Introitus: Gaudeamus omnes in domino	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	1	0.0093	MBSO	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000516	Ensemble Gilles Binchois	Kyrie eleison	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000517	Ensemble Gilles Binchois	Gloria in excelsis Deo	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000518	Ensemble Gilles Binchois	Collectio: Veneranda nobis	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000519	Ensemble Gilles Binchois	Epistulum: Lectio libri Sapientie	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000520	Ensemble Gilles Binchois	Graduale: Propter veritatem	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000521	Ensemble Gilles Binchois	Alleluia, assumpta est Maria	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000522	Ensemble Gilles Binchois	Evangelium: In illo tempore intravit Jesus	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000523	Ensemble Gilles Binchois	Credo in unum Deum	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000524	Ensemble Gilles Binchois	Offertorium: Diffusa est gratia	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000525	Ensemble Gilles Binchois	Praefatio	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000526	Ensemble Gilles Binchois	Sanctus & Benedictus	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000527	Ensemble Gilles Binchois	Pater Noster	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000528	Ensemble Gilles Binchois	Agnus Dei	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000529	Ensemble Gilles Binchois	Communio: Regina mundi	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000530	Ensemble Gilles Binchois	Postcommunio: Mense celestis	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000531	Ensemble Gilles Binchois	Ite missa est	Guillaume de Machaut: Messe de Nostre Dame	7502258850237	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000532	MÃºsÃ­ca FÃ­cta	Requiem aeternam I	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000533	MÃºsÃ­ca FÃ­cta	Te decet hymnus Deus in Sion	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000533	MÃºsÃ­ca FÃ­cta	Te decet hymnus Deus in Sion	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000534	MÃºsÃ­ca FÃ­cta	Requiem aeternam II	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000534	MÃºsÃ­ca FÃ­cta	Requiem aeternam II	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000535	MÃºsÃ­ca FÃ­cta	Kyrie: Kyrie I	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000535	MÃºsÃ­ca FÃ­cta	Kyrie: Kyrie I	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000536	MÃºsÃ­ca FÃ­cta	Kyrie: Christe	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000536	MÃºsÃ­ca FÃ­cta	Kyrie: Christe	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000537	MÃºsÃ­ca FÃ­cta	Kyrie: Kyrie II	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000537	MÃºsÃ­ca FÃ­cta	Kyrie: Kyrie II	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000538	MÃºsÃ­ca FÃ­cta	Graduale: Requiem aeternam	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000538	MÃºsÃ­ca FÃ­cta	Graduale: Requiem aeternam	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000539	MÃºsÃ­ca FÃ­cta	Graduale: In memoria aeterna	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000539	MÃºsÃ­ca FÃ­cta	Graduale: In memoria aeterna	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000540	MÃºsÃ­ca FÃ­cta	Graduale: Non timebit	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000540	MÃºsÃ­ca FÃ­cta	Graduale: Non timebit	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000541	MÃºsÃ­ca FÃ­cta	Sequentia: Pie Jesu	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000541	MÃºsÃ­ca FÃ­cta	Sequentia: Pie Jesu	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000541	MÃºsÃ­ca FÃ­cta	Sequentia: Pie Jesu	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000542	MÃºsÃ­ca FÃ­cta	Offertorium: Domine Jesu Christe, Rex gloriae	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000542	MÃºsÃ­ca FÃ­cta	Offertorium: Domine Jesu Christe, Rex gloriae	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000543	MÃºsÃ­ca FÃ­cta	Offertorium: Hostias et preces	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000543	MÃºsÃ­ca FÃ­cta	Offertorium: Hostias et preces	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000544	MÃºsÃ­ca FÃ­cta	Offertorium: Quam olim Abrahae II	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000544	MÃºsÃ­ca FÃ­cta	Offertorium: Quam olim Abrahae II	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000545	MÃºsÃ­ca FÃ­cta	Sanctus	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000545	MÃºsÃ­ca FÃ­cta	Sanctus	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000546	MÃºsÃ­ca FÃ­cta	Benedictus	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000546	MÃºsÃ­ca FÃ­cta	Benedictus	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000547	MÃºsÃ­ca FÃ­cta	Agnus Dei I	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000547	MÃºsÃ­ca FÃ­cta	Agnus Dei I	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000548	MÃºsÃ­ca FÃ­cta	Agnus Dei II	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000548	MÃºsÃ­ca FÃ­cta	Agnus Dei II	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000549	MÃºsÃ­ca FÃ­cta	Agnus Dei III	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000549	MÃºsÃ­ca FÃ­cta	Agnus Dei III	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000550	MÃºsÃ­ca FÃ­cta	Communio: Lux aeterna	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000550	MÃºsÃ­ca FÃ­cta	Communio: Lux aeterna	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000551	MÃºsÃ­ca FÃ­cta	Communio: Requiem aeternam	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000551	MÃºsÃ­ca FÃ­cta	Communio: Requiem aeternam	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000552	MÃºsÃ­ca FÃ­cta	Inclina, Domine (organ)	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000552	MÃºsÃ­ca FÃ­cta	Inclina, Domine (organ)	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000553	MÃºsÃ­ca FÃ­cta	Inclina, Domine	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000553	MÃºsÃ­ca FÃ­cta	Inclina, Domine	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000554	MÃºsÃ­ca FÃ­cta	Inclina, Domine: Deduc me, Domine	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000554	MÃºsÃ­ca FÃ­cta	Inclina, Domine: Deduc me, Domine	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000555	MÃºsÃ­ca FÃ­cta	Inclina, Domine: Domine, Deus	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000555	MÃºsÃ­ca FÃ­cta	Inclina, Domine: Domine, Deus	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000556	MÃºsÃ­ca FÃ­cta	Lamentabatur Jacob	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000556	MÃºsÃ­ca FÃ­cta	Lamentabatur Jacob	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000557	MÃºsÃ­ca FÃ­cta	Lamentabatur Jacob: Prosternens se Jacob	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000557	MÃºsÃ­ca FÃ­cta	Lamentabatur Jacob: Prosternens se Jacob	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000558	MÃºsÃ­ca FÃ­cta	Miserere nostri, Deus	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000558	MÃºsÃ­ca FÃ­cta	Miserere nostri, Deus	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000559	MÃºsÃ­ca FÃ­cta	Misererre nostri: Innova signa	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000559	MÃºsÃ­ca FÃ­cta	Misererre nostri: Innova signa	CristÃ³bal de Morales: Requiem & Lamentabatur Jacob	7502258850244	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000569	Ensemble Martin Codax	Pois que Deus	Devotio: Medieval Spanish Music for the Virgin and St James	7502258850251	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000570	Ensemble Martin Codax	A madre de Deus	Devotio: Medieval Spanish Music for the Virgin and St James	7502258850251	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000603	Tripla Concordia	Sonata C Major, TWV 41: C5: Adagio - Allegro - Adagio - Allegro	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000610	Tripla Concordia	Sonata d minor, TWV 41: d4: Affettuoso	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000612	Tripla Concordia	Sonata d minor, TWV 41: d4: Grave	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000616	Tripla Concordia	Sonata f minor, TWV 41: f1: Andante	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000617	Tripla Concordia	Sonata f minor, TWV 41: f1: Vivace	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000619	Tripla Concordia	Sonata B flat Major, TWV 42: B4: Vivace	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000620	Tripla Concordia	Sonata B flat Major, TWV 42: B4: Siciliana	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000622	Tripla Concordia	Sonata C Major, TWV 41: C2: Cantabile	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000623	Tripla Concordia	Sonata C Major, TWV 41: C2: Allegro	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000624	Tripla Concordia	Sonata C Major, TWV 41: C2: Grave	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000625	Tripla Concordia	Sonata C Major, TWV 41: C2: Vivace	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000637	Tripla Concordia	Suite d minor, BWV 997: Sarabande	G. Ph. Teleman & J.S. Bach: Sonatas & Trios	7502258850268	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000127	Currende Consort	HÃ©, compaignons	Vous ou la mort: Flemish courtly love songs, 15th c.	7502258850282	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000132	Currende Consort	S'elle m'amera/Petite camusette	Vous ou la mort: Flemish courtly love songs, 15th c.	7502258850282	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000142	Currende Consort	Autant en emporte le vent	Vous ou la mort: Flemish courtly love songs, 15th c.	7502258850282	FR	1	0.016	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000762	Ensemble Gilles Binchois	Je, Guillaumes	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000762	Ensemble Gilles Binchois	Je, Guillaumes	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000763	Ensemble Gilles Binchois	Dame, vostre doulz viaire	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000763	Ensemble Gilles Binchois	Dame, vostre doulz viaire	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000763	Ensemble Gilles Binchois	Dame, vostre doulz viaire	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.016	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000764	Ensemble Gilles Binchois	Amours qui ha le pouoir/Faus samblant	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000764	Ensemble Gilles Binchois	Amours qui ha le pouoir/Faus samblant	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000765	Ensemble Gilles Binchois	Je vivroie liement	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000765	Ensemble Gilles Binchois	Je vivroie liement	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000766	Ensemble Gilles Binchois	Ce qui soustient moy	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000766	Ensemble Gilles Binchois	Ce qui soustient moy	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000767	Ensemble Gilles Binchois	La, firent mains divers acors	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000767	Ensemble Gilles Binchois	La, firent mains divers acors	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000768	Ensemble Gilles Binchois	Dame se vous mâ€™estes lonteinne	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000768	Ensemble Gilles Binchois	Dame se vous mâ€™estes lonteinne	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000769	Ensemble Gilles Binchois	Je ne cuit pas	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000769	Ensemble Gilles Binchois	Je ne cuit pas	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000770	Ensemble Gilles Binchois	Doulz viaire gracieus	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000770	Ensemble Gilles Binchois	Doulz viaire gracieus	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000771	Ensemble Gilles Binchois	Christe, qui lux est/Veni creator spiritus	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000771	Ensemble Gilles Binchois	Christe, qui lux est/Veni creator spiritus	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000772	Ensemble Gilles Binchois	Qui des couleurs	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000772	Ensemble Gilles Binchois	Qui des couleurs	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000773	Ensemble Gilles Binchois	Puisquâ€™en oubli	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000773	Ensemble Gilles Binchois	Puisquâ€™en oubli	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000774	Ensemble Gilles Binchois	Dame ne regardes pas	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	4	0.0061	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000774	Ensemble Gilles Binchois	Dame ne regardes pas	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000775	Ensemble Gilles Binchois	Doulz amis	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000775	Ensemble Gilles Binchois	Doulz amis	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000776	Ensemble Gilles Binchois	Long sont mi jour	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000776	Ensemble Gilles Binchois	Long sont mi jour	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000777	Ensemble Gilles Binchois	Tels rit au main	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000777	Ensemble Gilles Binchois	Tels rit au main	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000778	Ensemble Gilles Binchois	Liement me deport	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000778	Ensemble Gilles Binchois	Liement me deport	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000779	Ensemble Gilles Binchois	Des que on porroit les estoilles nombrer	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000779	Ensemble Gilles Binchois	Des que on porroit les estoilles nombrer	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000780	Ensemble Gilles Binchois	De toutes flours	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	4	0.0061	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000780	Ensemble Gilles Binchois	De toutes flours	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000780	Ensemble Gilles Binchois	De toutes flours	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000781	Ensemble Gilles Binchois	Mon cuer, ma suer Ã¥	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000781	Ensemble Gilles Binchois	Mon cuer, ma suer Ã¥	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000782	Ensemble Gilles Binchois	Felix virgo/Inviolata genitrix	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000782	Ensemble Gilles Binchois	Felix virgo/Inviolata genitrix	Guillaume de Machaut: Le vray remÃ¨de dâ€™amour	7502258850305	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000845	Tlen Huicani	El Jarocho	PasiÃ³n Jarocha	7502258850404	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000846	Tlen Huicani	El colas	PasiÃ³n Jarocha	7502258850404	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000848	Tlen Huicani	El toro retozon	PasiÃ³n Jarocha	7502258850404	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000851	Tlen Huicani	La bruja	PasiÃ³n Jarocha	7502258850404	BE	3	0.0032	MPRM	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000851	Tlen Huicani	La bruja	PasiÃ³n Jarocha	7502258850404	FR	9	0.1342	MBPP	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000851	Tlen Huicani	La bruja	PasiÃ³n Jarocha	7502258850404	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000852	Tlen Huicani	El gavilancito	PasiÃ³n Jarocha	7502258850404	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000854	Tlen Huicani	El jaqueton	PasiÃ³n Jarocha	7502258850404	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000854	Tlen Huicani	El jaqueton	PasiÃ³n Jarocha	7502258850404	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000855	Tlen Huicani	El fandanguito	PasiÃ³n Jarocha	7502258850404	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000856	Tlen Huicani	El balaju	PasiÃ³n Jarocha	7502258850404	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000857	Tlen Huicani	La risa	PasiÃ³n Jarocha	7502258850404	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000859	Tlen Huicani	EL huapanguito	PasiÃ³n Jarocha	7502258850404	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000213	Alejandro Corona Jazz Trio	Encuentro, Op. 13 for French horn, tuba & piano	GÃ©nesis	7502258850633	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000860	Tlen Huicani	La china que yo tenÃ­a	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000861	Tlen Huicani	A unos ojos	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000862	Tlen Huicani	Danza del colibrÃ­	Latinoamericano	7502258850435	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000863	Tlen Huicani	El cantar de mi guitarra	Latinoamericano	7502258850435	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000864	Tlen Huicani	QuÃ© serÃ¡ de ti	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000865	Tlen Huicani	Quisiera ser	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000866	Tlen Huicani	NiÃ±a bonita	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000867	Tlen Huicani	Concierto en la llanura	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000868	Tlen Huicani	En mi corrio	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000869	Tlen Huicani	Mi amigo el camino	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000870	Tlen Huicani	Aquella noche	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000871	Tlen Huicani	Mis noches sin ti	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000872	Tlen Huicani	Alcavaran compaÃ±ero	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000873	Tlen Huicani	Esquiva	Latinoamericano	7502258850435	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000874	Tlen Huicani	Kirpa	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000875	Tlen Huicani	Mis blancas mariposas	Latinoamericano	7502258850435	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000876	Tlen Huicani	Rosario	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000877	Tlen Huicani	Rumbendo Pa'l litoral	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000878	Tlen Huicani	El mar juega con la arena	Latinoamericano	7502258850435	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000879	Tlen Huicani	Serenata huasteca	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000880	Tlen Huicani	Veracruz	Latinoamericano	7502258850435	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831000907	Cuarteto de Saxofones de MÃ©xico	La Historia del Tango: IV. Concert d'aujourd'hui	Portales de Madrugada	7502258850459	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000908	Cuarteto de Saxofones de MÃ©xico	Jazz Mosaics No. 4: I. Passing Gear	Portales de Madrugada	7502258850459	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000910	Cuarteto de Saxofones de MÃ©xico	Jazz Mosaics No. 4: III. Poultry in Motion	Portales de Madrugada	7502258850459	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000911	Cuarteto de Saxofones de MÃ©xico	Portales de Madrugada: DanzÃ³n No. 5 for Four Saxophones	Portales de Madrugada	7502258850459	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000912	Cuarteto de Saxofones de MÃ©xico	Fantaseando Sobre El Coti-Coti for Four Saxophones	Portales de Madrugada	7502258850459	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000913	Cuarteto de Saxofones de MÃ©xico	Cuban Overture	Joplin & Gershwin	7502258850466	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000918	Cuarteto de Saxofones de MÃ©xico	Porgy and Bess Suite: "I Got Plenty O' Nuttin"	Joplin & Gershwin	7502258850466	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000919	Cuarteto de Saxofones de MÃ©xico	Porgy and Bess Suite: "It Ain't Necessarily So"	Joplin & Gershwin	7502258850466	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000920	Cuarteto de Saxofones de MÃ©xico	Porgy and Bess Suite: "Summertime"	Joplin & Gershwin	7502258850466	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000921	Cuarteto de Saxofones de MÃ©xico	Porgy and Bess Suite: "There's Aboat Dat's Leavin Soon for New York"	Joplin & Gershwin	7502258850466	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000922	Cuarteto de Saxofones de MÃ©xico	Just Another Rhumba	Joplin & Gershwin	7502258850466	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000923	Cuarteto de Saxofones de MÃ©xico	Elite Syncopations	Joplin & Gershwin	7502258850466	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000924	Cuarteto de Saxofones de MÃ©xico	Rag Time Dance	Joplin & Gershwin	7502258850466	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000925	Cuarteto de Saxofones de MÃ©xico	The Easy Winners	Joplin & Gershwin	7502258850466	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000926	Cuarteto de Saxofones de MÃ©xico	Swipesy	Joplin & Gershwin	7502258850466	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000926	Cuarteto de Saxofones de MÃ©xico	Swipesy	Joplin & Gershwin	7502258850466	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000927	Cuarteto de Saxofones de MÃ©xico	Maple Leaf Rag	Joplin & Gershwin	7502258850466	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000928	Cuarteto de Saxofones de MÃ©xico	Pine Apple Rag	Joplin & Gershwin	7502258850466	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000929	Cuarteto de Saxofones de MÃ©xico	Heliotrope Bouquet	Joplin & Gershwin	7502258850466	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000930	Cuarteto de Saxofones de MÃ©xico	Stoptime	Joplin & Gershwin	7502258850466	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000931	Cuarteto de Saxofones de MÃ©xico	Scott Joplin's New Rag	Joplin & Gershwin	7502258850466	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000972	Cuarteto de Saxofones de MÃ©xico	La CamagÃ¼eyana	MangÃ¼e	7502258850497	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000976	Cuarteto de Saxofones de MÃ©xico	Monk-Tuno	MangÃ¼e	7502258850497	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000977	Cuarteto de Saxofones de MÃ©xico	Mambo en Sax	MangÃ¼e	7502258850497	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000982	Cuarteto de Saxofones de MÃ©xico	Preludio Cubano	MangÃ¼e	7502258850497	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000984	Cuarteto de Saxofones de MÃ©xico	Son	MangÃ¼e	7502258850497	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001144	Cuarteto de Saxofones de MÃ©xico	Chega de Saudade	Homenaje a Jobim	7502258850602	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001145	Cuarteto de Saxofones de MÃ©xico	Wave	Homenaje a Jobim	7502258850602	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001146	Cuarteto de Saxofones de MÃ©xico	Desafinado	Homenaje a Jobim	7502258850602	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001147	Cuarteto de Saxofones de MÃ©xico	Insensatez	Homenaje a Jobim	7502258850602	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001148	Cuarteto de Saxofones de MÃ©xico	Garota de Ipanema	Homenaje a Jobim	7502258850602	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001149	Cuarteto de Saxofones de MÃ©xico	Lamento	Homenaje a Jobim	7502258850602	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001150	Cuarteto de Saxofones de MÃ©xico	Triste	Homenaje a Jobim	7502258850602	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001151	Cuarteto de Saxofones de MÃ©xico	MeditaciÃ³n	Homenaje a Jobim	7502258850602	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001152	Cuarteto de Saxofones de MÃ©xico	Mojave	Homenaje a Jobim	7502258850602	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001153	Cuarteto de Saxofones de MÃ©xico	Corcovado	Homenaje a Jobim	7502258850602	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001154	Cuarteto de Saxofones de MÃ©xico	The red Blouse	Homenaje a Jobim	7502258850602	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001155	Cuarteto de Saxofones de MÃ©xico	SÃ³ DanÃ§o Samba	Homenaje a Jobim	7502258850602	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831001229	Tlen Huicani	Navidad Jarocha	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001230	Tlen Huicani	Corre Caballito	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001230	Tlen Huicani	Corre Caballito	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001231	Tlen Huicani	La peregrinaciÃ³n	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001231	Tlen Huicani	La peregrinaciÃ³n	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001232	Tlen Huicani	Los peces en el rÃ­o	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001232	Tlen Huicani	Los peces en el rÃ­o	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001233	Tlen Huicani	QuÃ© le daremos al niÃ±o	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001234	Tlen Huicani	Los Reyes Magos	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001234	Tlen Huicani	Los Reyes Magos	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001235	Tlen Huicani	Rompemos piÃ±atas	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001236	Tlen Huicani	Si la Virgen fuera andina	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001236	Tlen Huicani	Si la Virgen fuera andina	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001237	Tlen Huicani	Farolito	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001237	Tlen Huicani	Farolito	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001240	Tlen Huicani	Mi burrito sabanero	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001243	Tlen Huicani	La rama	Navidad con Tlen-Huicani	7502258850695	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831200024	YOA Orchestra of the Americas, Carlos Miguel Prieto	Dimitri Shostakovich, Symphony No. 10 in E minor Op. 93 II. Allegro	Dimitri Shostakovich, Symphony No. 10 in E minor Op. 93	7502258850725	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	iTinerant Classics
+01-11-2012	30-11-2012	MX2831200027	Orquesta de CÃ¡mara de Xalapa	Obertura de la suite orquesta No. 1 en Do Mayor BWV 1066	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200028	Orquesta de CÃ¡mara de Xalapa	Concierto para violÃ­n y orquesta de cuerdas en Mi bemol Mayor, I. Presto	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200029	Orquesta de CÃ¡mara de Xalapa	Concierto para violÃ­n y orquesta de cuerdas en Mi bemol Mayor, II. Largo	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200030	Orquesta de CÃ¡mara de Xalapa	Concierto para violÃ­n y orquesta de cuerdas en Mi bemol Mayor, III. Presto	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200031	Antonio MÃ©ndez	Concierto de Brandenburgo No. 3, I. Allegro	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200032	Antonio MÃ©ndez	Concierto de Brandenburgo No. 3, II. Adagio	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200033	Antonio MÃ©ndez	Concierto de Brandenburgo No. 3, III. Allegro	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200034	Patricia Castillo	Concierto a dos clavecines en Do Mayor BWV 1061, I. Allegro	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200035	Patricia Castillo	Concierto a dos clavecines en Do Mayor BWV 1061, II. Adagio	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200036	Patricia Castillo	Concierto a dos clavecines en Do Mayor BWV 1061, III. Allegro	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200037	Rey Alejandro Conde	Air de la 3a suite en Re Mayor BWV 1068	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200037	Rey Alejandro Conde	Air de la 3a suite en Re Mayor BWV 1068	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200037	Rey Alejandro Conde	Air de la 3a suite en Re Mayor BWV 1068	150 aÃ±os de arte barroco	7502258850732	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200038	Patricia Castillo	Concierto a dos clavecines en Do menor BWV 1062, I. Allegro	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200039	Patricia Castillo	Concierto a dos clavecines en Do menor BWV 1062, II. Adagio ovvero largo	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200039	Patricia Castillo	Concierto a dos clavecines en Do menor BWV 1062, II. Adagio ovvero largo	150 aÃ±os de arte barroco	7502258850732	IT	1	0.0112	MPLS	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200040	Patricia Castillo	Concierto a dos clavecines en Do menor BWV 1062, III. Fuga	150 aÃ±os de arte barroco	7502258850732	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831200040	Patricia Castillo	Concierto a dos clavecines en Do menor BWV 1062, III. Fuga	150 aÃ±os de arte barroco	7502258850732	IT	1	0.0112	MPLS	The Recording Consort (MERLIN)	167	Videophonic
+01-11-2012	30-11-2012	MX2831000178	Christian Mendoze	Schiarazula Marazula	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	3	0.0046	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000179	Christian Mendoze	Gagliarda	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000180	Christian Mendoze	Ungarescha	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000181	Christian Mendoze	Saltarello	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000182	Christian Mendoze	La Zanetta padovana	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000183	Christian Mendoze	Ballo Anglese	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000184	Christian Mendoze	Saltarello 2	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000185	Christian Mendoze	Ballo Francese	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000186	Christian Mendoze	Saltarello 3	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000187	Christian Mendoze	Ballo Milanese	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000188	Christian Mendoze	La Parma	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000189	Christian Mendoze	Pass'e mezzo Paganina	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000190	Christian Mendoze	Saltarello 4	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000191	Christian Mendoze	Tedesca	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000192	Christian Mendoze	Saltarello 5	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000193	Christian Mendoze	Caro Ortolano	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000194	Christian Mendoze	Sartarello	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000195	Christian Mendoze	L'arboscello Ballo Furlano	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000196	Christian Mendoze	Gagliarda La Traditora	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000197	Christian Mendoze	Gagliarda La Manfrolina	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000198	Christian Mendoze	Pavana la Battaglia	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000199	Christian Mendoze	Gagliarda La Gamba (a)	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000200	Christian Mendoze	Gagliarda La Gamba (b)	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000201	Christian Mendoze	Pass'e Mezzo Nuovo Primo	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000202	Christian Mendoze	Meza Note Gagliarda	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000203	Christian Mendoze	Pavana Le Forze d'Hercole	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000204	Christian Mendoze	Pavana Le Forze d'Hercole (b)	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000205	Christian Mendoze	Saltarello Zorzi	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000206	Christian Mendoze	Gagliarda El tu tu	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000207	Christian Mendoze	Paduana del Re	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000208	Christian Mendoze	Saltarello Giorgio	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000209	Christian Mendoze	Pavana Le Forze d'Hercole (c)	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000210	Christian Mendoze	Gagliarda La lavandara	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000211	Christian Mendoze	Correnta Seconda	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000212	Christian Mendoze	Correnta Sesta	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000213	Christian Mendoze	Correnta Prima	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000214	Christian Mendoze	Correnta Quarta	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000215	Christian Mendoze	Gagliarda Ottava	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000216	Christian Mendoze	Gagliarda Sesta	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000217	Christian Mendoze	Correnta Settima	Schiarazula Marazula: Italian Dances of the Renaissance	7502258850107	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000305	La Venexiana	Volano frettolosi (madrigale a 5 voci)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	3	0.0447	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000306	La Venexiana	Quel misero usignolo (a 4)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	3	0.0447	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000307	La Venexiana	Quante volte (a 2)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	3	0.0447	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000308	La Venexiana	Dolcissimi respiri (a 4)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000309	La Venexiana	Che dolce udire (a 2)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000310	La Venexiana	O soffrire, o fuggire (a 3)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000311	La Venexiana	Bella Madre dâ€™Amor (a 3)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000312	La Venexiana	Chi di noi (a 5)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000313	La Venexiana	Vago, instabil (a 4)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000314	La Venexiana	MercÃ¨ di voi (a 2)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000315	La Venexiana	Pietosissimo Amore (a 5)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000316	La Venexiana	Non ci lusinghi piÃ¹ (a 3)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000317	La Venexiana	Anima del mio core (a 2)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000318	La Venexiana	Amor, Amor (a 5)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000319	La Venexiana	Gioisca (a 2)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000320	La Venexiana	Come puÃ², non come vuol (a 3)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000321	La Venexiana	Mi tien Filli (a 4)	Barbara Strozzi: Primo Libro deâ€™ Madrigali (1644)	7502258850152	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000688	Various Artists	Medieval violin: Estampie	Dictionary of Medieval & Renaissance Instruments	7502258850299	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000691	Various Artists	Medieval fiddle: Puisque bele dame/Flos filius eius	Dictionary of Medieval & Renaissance Instruments	7502258850299	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000697	Various Artists	Lyra violl: Life	Dictionary of Medieval & Renaissance Instruments	7502258850299	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000742	Various Artists	Hurdy-gurdy: Como poden per sas culpas	Dictionary of Medieval & Renaissance Instruments	7502258850299	NL	5	0.0573	MBSO	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000749	Various Artists	Sackbuts: HÃ©, compaignons	Dictionary of Medieval & Renaissance Instruments	7502258850299	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831000755	Various Artists	Medieval bagpipe: Estampie	Dictionary of Medieval & Renaissance Instruments	7502258850299	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831001013	Tlen Huicani	La Huasanga	Veracruz Son Y Huapango	7502258850442	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001014	Tlen Huicani	La Leva	Veracruz Son Y Huapango	7502258850442	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001015	Tlen Huicani	El Fandanguito	Veracruz Son Y Huapango	7502258850442	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001016	Tlen Huicani	El Querreque	Veracruz Son Y Huapango	7502258850442	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001016	Tlen Huicani	El Querreque	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001017	Tlen Huicani	La Sirena	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001018	Tlen Huicani	La Malaguena	Veracruz Son Y Huapango	7502258850442	FR	2	0.0298	MBPP	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001021	Tlen Huicani	Flor Silvestre	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001022	Tlen Huicani	Canastas Y Mas Canastas	Veracruz Son Y Huapango	7502258850442	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001022	Tlen Huicani	Canastas Y Mas Canastas	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001023	Tlen Huicani	El Arreo	Veracruz Son Y Huapango	7502258850442	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001024	Tlen Huicani	La Cigarra	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001025	Tlen Huicani	El Cascabel	Veracruz Son Y Huapango	7502258850442	BE	2	0.0021	MPRM	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001025	Tlen Huicani	El Cascabel	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001027	Tlen Huicani	La Bruja	Veracruz Son Y Huapango	7502258850442	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001027	Tlen Huicani	La Bruja	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001028	Tlen Huicani	La Tienda	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001029	Tlen Huicani	La Pollitos	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001030	Tlen Huicani	El Pijul	Veracruz Son Y Huapango	7502258850442	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001031	Tlen Huicani	El Coconito	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001032	Tlen Huicani	Fandango Jarocho	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001033	Tlen Huicani	La Morena	Veracruz Son Y Huapango	7502258850442	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831001034	Tlen Huicani	La Bamba	Veracruz Son Y Huapango	7502258850442	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Tlen Huicani
+01-11-2012	30-11-2012	MX2831100024	Eva MarÃ­a Santana	Ich GehÃ¶r Nur Mir (Elisabeth)	Somewhere: Singt Lieder Aus Aller Welt	7509708051473	AT	2	0.0446	MBWE	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831100029	Eva MarÃ­a Santana	Sin Ti	Somewhere: Singt Lieder Aus Aller Welt	7509708051473	GB	1	0.0152	MBMO	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831100030	Eva MarÃ­a Santana	El DÃ­a que Me Quieras	Somewhere: Singt Lieder Aus Aller Welt	7509708051473	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201034	TrÃ­o Neos	Entre Nos	Mujeres de las AmÃ©ricas	7509708000433	FR	1	0.0093	MBSO	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201090	Antonio Tornero	Aria de la Suite en Estilo Antiguo	Romanticismo Tenaz: MÃºsica Mexicana para ViolÃ­n y Piano	7509708000495	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201090	Antonio Tornero	Aria de la Suite en Estilo Antiguo	Romanticismo Tenaz: MÃºsica Mexicana para ViolÃ­n y Piano	7509708000495	FR	1	0.0093	MBSO	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200175	Orquesta FilarmÃ³nica de Moravia	Batik	Troka: Music of Silvestre Revueltas	7509708000631	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200849	Jimena GimÃ©nez Cacho	Recercada No.2	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200850	Jimena GimÃ©nez Cacho	Bunraku	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200850	Jimena GimÃ©nez Cacho	Bunraku	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200851	Jimena GimÃ©nez Cacho	Suite: I. Preludio	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200852	Jimena GimÃ©nez Cacho	Suite: II. Allegro	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200853	Jimena GimÃ©nez Cacho	Suite: III. Canzona	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200854	Jimena GimÃ©nez Cacho	Suite: IV. Allegro	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200855	Jimena GimÃ©nez Cacho	Thrinos	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200856	Jimena GimÃ©nez Cacho	Suite en Re Menor: I. Prelude	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200857	Jimena GimÃ©nez Cacho	Suite en Re Menor: II. Scherzando	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200858	Jimena GimÃ©nez Cacho	Suite en Re Menor: III. Elegia	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200859	Jimena GimÃ©nez Cacho	Suite en Re Menor: IV. Finale	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200860	Jimena GimÃ©nez Cacho	Lumbre 1	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200861	Jimena GimÃ©nez Cacho	Recercada X en Sol Menor	Ecos del Mundo: Violoncello Solo	7509708020929	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200102	Horacio Franco	Partita In a Minor for Solo Flute, BWV 1013: I. Allemande	Solo Bach	7509708031017	FR	3	0.0282	MPLS	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200103	Horacio Franco	Partita In a Minor for Solo Flute, BWV 1013: II. Corrente	Solo Bach	7509708031017	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200104	Horacio Franco	Partita In a Minor for Solo Flute, BWV 1013: III. Sarabande	Solo Bach	7509708031017	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200105	Horacio Franco	Partita In a Minor for Solo Flute, BWV 1013: IV. BourrÃ©e Anglaise	Solo Bach	7509708031017	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200105	Horacio Franco	Partita In a Minor for Solo Flute, BWV 1013: IV. BourrÃ©e Anglaise	Solo Bach	7509708031017	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200110	Horacio Franco	Sonata In a Minor for Solo Flute: II. Allegro	Solo Bach	7509708031017	FR	2	0.0188	MPLS	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201158	Cuarteto Carlos ChÃ¡vez	Caminos de Agua (Waterways)	JesÃºs EcheverrÃ­a: Cantes Huastecos	7509708031154	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200503	Onix Ensemble	Abstractions for Flute, Clarinet, Piano, Violin & Cello: II. Contraste	Visiones: Chamber Music by Leonardo Coral	7509708041283	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200811	Silvia Rizo	Tres Morillas	Manuel M. Ponce: Los 8 Ciclos para Voz y Piano	7509708051367	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201072	Ãgueda GonzÃ¡lez	Toccata	Mexican Music for Harpsichord from the End of the 20th and Beginning of the 21st Centuries	7509708051695	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201073	Ãgueda GonzÃ¡lez	Talion	Mexican Music for Harpsichord from the End of the 20th and Beginning of the 21st Centuries	7509708051695	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201074	Ãgueda GonzÃ¡lez	Suite MÃºsica Para Teatro II: I	Mexican Music for Harpsichord from the End of the 20th and Beginning of the 21st Centuries	7509708051695	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200446	Cuarteto Latinoamericano	O Pato	Bossa	7509708061519	AT	1	0.0063	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200456	Cuarteto Latinoamericano	Ela Ã© Carioca	Bossa	7509708061519	AT	1	0.0063	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200641	Pedro Kominik	Perfume de Gardenias	Piensa en mÃ­ Lili Marlene	7509708061618	FR	3	0.0447	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200642	Pedro Kominik	Un Poco de Nostalgia	Piensa en mÃ­ Lili Marlene	7509708061618	FR	4	0.0597	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200643	Pedro Kominik	Fever	Piensa en mÃ­ Lili Marlene	7509708061618	FR	3	0.0447	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200644	Pedro Kominik	Piensa en Mi	Piensa en mÃ­ Lili Marlene	7509708061618	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200644	Pedro Kominik	Piensa en Mi	Piensa en mÃ­ Lili Marlene	7509708061618	FR	4	0.0597	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200645	Pedro Kominik	Lili Marlene	Piensa en mÃ­ Lili Marlene	7509708061618	FR	4	0.0597	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200646	Pedro Kominik	Sweet Dreams - Delirio	Piensa en mÃ­ Lili Marlene	7509708061618	FR	3	0.0447	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200647	Pedro Kominik	La Vie en Rose	Piensa en mÃ­ Lili Marlene	7509708061618	FR	4	0.0597	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200648	Pedro Kominik	As Time Goes By	Piensa en mÃ­ Lili Marlene	7509708061618	FR	3	0.0447	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200649	Pedro Kominik	Summertime	Piensa en mÃ­ Lili Marlene	7509708061618	FR	3	0.0447	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200650	Pedro Kominik	Un AÃ±o de Amor	Piensa en mÃ­ Lili Marlene	7509708061618	FR	7	0.1044	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200651	Pedro Kominik	Mack the Knife	Piensa en mÃ­ Lili Marlene	7509708061618	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200651	Pedro Kominik	Mack the Knife	Piensa en mÃ­ Lili Marlene	7509708061618	FR	4	0.0597	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200652	Pedro Kominik	Cucurrucucu Paloma	Piensa en mÃ­ Lili Marlene	7509708061618	FR	4	0.0597	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200832	Armando Merino	Parfums de Vienne	Capricho: The Complete Waltzes by Ricardo Castro	7509708071785	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200458	Pedro Kominik	What a Wonderful World	QuzÃ¡s, QuizÃ¡sâ€¦	7509708071808	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200459	Pedro Kominik	Piel Canela	QuzÃ¡s, QuizÃ¡sâ€¦	7509708071808	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200462	Pedro Kominik	Here Comes the Rain Again	QuzÃ¡s, QuizÃ¡sâ€¦	7509708071808	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200462	Pedro Kominik	Here Comes the Rain Again	QuzÃ¡s, QuizÃ¡sâ€¦	7509708071808	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201040	Coro Melos Gloriae	1er Nocturno, LecciÃ³n I: Parce Mibi, DÃ³mine - ResponsÃ³rio: Credo Quod RedÃ©mptor Meus Vivit	Officium Defunctorum Novohispanicum MÃ©xico	7509708081876	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200238	Cesar Olguin	Fuga y Misterio	Jalousie	7509708081906	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200564	Isabelle Perrin	Jardin Des Paons, for two Harps	JardÃ­n Des Paons	7509708081944	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200565	Isabelle Perrin	Absidioles	JardÃ­n Des Paons	7509708081944	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200570	Isabelle Perrin	Variations Sur Un ThÃ©me Dans Le Style Ancien	JardÃ­n Des Paons	7509708081944	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200915	Mauricio Nader	Apuntes para Piano: I. Perpetum Mobile (Homenaje a Francis Poulenc)	Apuntes para Piano: MÃºsica Mexicana para Piano de los Siglos XX y XXI	7509708092001	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200687	Carlos Bernal	In the Woods: III. Muir Woods	Takemitsu-Brouwer	7509708102045	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200756	Yleana Bautista de la Torre	Ante El Escorial	MÃºsica Cubana para Piano	7509708980247	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200759	Yleana Bautista de la Torre	La NiÃ±a Bonita	MÃºsica Cubana para Piano	7509708980247	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200768	Yleana Bautista de la Torre	No Hables MÃ¡s	MÃºsica Cubana para Piano	7509708980247	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200769	Yleana Bautista de la Torre	La Comparsa	MÃºsica Cubana para Piano	7509708980247	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200777	Yleana Bautista de la Torre	AdiÃ³s a Cuba	MÃºsica Cubana para Piano	7509708980247	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200778	Yleana Bautista de la Torre	Ilusiones Perdidas	MÃºsica Cubana para Piano	7509708980247	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200780	Yleana Bautista de la Torre	AndalucÃ­a	MÃºsica Cubana para Piano	7509708980247	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200781	Yleana Bautista de la Torre	CÃ³rdoba	MÃºsica Cubana para Piano	7509708980247	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200782	Yleana Bautista de la Torre	GitanerÃ­as	MÃºsica Cubana para Piano	7509708980247	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200783	Yleana Bautista de la Torre	MalagueÃ±a	MÃºsica Cubana para Piano	7509708980247	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831200983	Alberto Cruzprieto	Abismo de Sed (Zamba)	Suaste Canta Guastavino	7509708990369	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201382	Patrick Denecker	Scarborough Fair	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	2	0.0446	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201382	Patrick Denecker	Scarborough Fair	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201382	Patrick Denecker	Scarborough Fair	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	4	0.0061	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201382	Patrick Denecker	Scarborough Fair	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201382	Patrick Denecker	Scarborough Fair	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	4	0.0227	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201383	Patrick Denecker	Scotch Air	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	3	0.0669	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201383	Patrick Denecker	Scotch Air	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201383	Patrick Denecker	Scotch Air	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	BE	1	0.054	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201383	Patrick Denecker	Scotch Air	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201383	Patrick Denecker	Scotch Air	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	3	0.017	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201384	Patrick Denecker	Ground After the Scotch Humour	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	3	0.0669	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201384	Patrick Denecker	Ground After the Scotch Humour	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201384	Patrick Denecker	Ground After the Scotch Humour	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201384	Patrick Denecker	Ground After the Scotch Humour	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	3	0.017	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201385	Patrick Denecker	Italian Ground	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201385	Patrick Denecker	Italian Ground	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201385	Patrick Denecker	Italian Ground	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201385	Patrick Denecker	Italian Ground	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201386	Patrick Denecker	Ground	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	2	0.0446	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201386	Patrick Denecker	Ground	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201387	Patrick Denecker	Jigg	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201387	Patrick Denecker	Jigg	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201387	Patrick Denecker	Jigg	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201388	Patrick Denecker	March	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201388	Patrick Denecker	March	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201388	Patrick Denecker	March	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201389	Patrick Denecker	Sybell	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201389	Patrick Denecker	Sybell	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201389	Patrick Denecker	Sybell	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201390	Patrick Denecker	Mr. Maule's Favourite	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201390	Patrick Denecker	Mr. Maule's Favourite	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201390	Patrick Denecker	Mr. Maule's Favourite	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201391	Patrick Denecker	King of the Fairies	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201391	Patrick Denecker	King of the Fairies	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201391	Patrick Denecker	King of the Fairies	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201391	Patrick Denecker	King of the Fairies	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201392	Patrick Denecker	Keyboard Works: I. Almand	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201392	Patrick Denecker	Keyboard Works: I. Almand	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201392	Patrick Denecker	Keyboard Works: I. Almand	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201393	Patrick Denecker	Keyboard Works: II. Rowland	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201393	Patrick Denecker	Keyboard Works: II. Rowland	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201393	Patrick Denecker	Keyboard Works: II. Rowland	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201393	Patrick Denecker	Keyboard Works: II. Rowland	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201394	Patrick Denecker	Keyboard Works: III. Volta	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	2	0.0446	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201394	Patrick Denecker	Keyboard Works: III. Volta	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201394	Patrick Denecker	Keyboard Works: III. Volta	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201395	Patrick Denecker	Mr. Shores Trumpet Tune	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201395	Patrick Denecker	Mr. Shores Trumpet Tune	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201395	Patrick Denecker	Mr. Shores Trumpet Tune	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201396	Patrick Denecker	Trumpet Tune	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201396	Patrick Denecker	Trumpet Tune	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201396	Patrick Denecker	Trumpet Tune	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201397	Patrick Denecker	Johney Cock thy Beavor	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201397	Patrick Denecker	Johney Cock thy Beavor	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201397	Patrick Denecker	Johney Cock thy Beavor	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201398	Patrick Denecker	The Witches' Second Dance	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201398	Patrick Denecker	The Witches' Second Dance	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201398	Patrick Denecker	The Witches' Second Dance	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201399	Patrick Denecker	Boffons	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201399	Patrick Denecker	Boffons	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201399	Patrick Denecker	Boffons	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201400	Patrick Denecker	Suite No.8: I. Pavan	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201400	Patrick Denecker	Suite No.8: I. Pavan	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201400	Patrick Denecker	Suite No.8: I. Pavan	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201401	Patrick Denecker	Suite No.8: II. Ayre	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201401	Patrick Denecker	Suite No.8: II. Ayre	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201401	Patrick Denecker	Suite No.8: II. Ayre	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201402	Patrick Denecker	Suite No.8: III. Courante	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201402	Patrick Denecker	Suite No.8: III. Courante	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201402	Patrick Denecker	Suite No.8: III. Courante	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201403	Patrick Denecker	Suite No.8: IV. Sarabande	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0223	MBWE	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201403	Patrick Denecker	Suite No.8: IV. Sarabande	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201403	Patrick Denecker	Suite No.8: IV. Sarabande	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201404	Patrick Denecker	Sonata	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	2	0.1209	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201404	Patrick Denecker	Sonata	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201404	Patrick Denecker	Sonata	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201405	Patrick Denecker	Fitzwilliam Sonata: I. Largo	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	2	0.1209	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201405	Patrick Denecker	Fitzwilliam Sonata: I. Largo	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201406	Patrick Denecker	Fitzwilliam Sonata: II. Vivace	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	2	0.1209	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201406	Patrick Denecker	Fitzwilliam Sonata: II. Vivace	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	1	0.0093	MBSO	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201406	Patrick Denecker	Fitzwilliam Sonata: II. Vivace	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201407	Patrick Denecker	Fitzwilliam Sonata: III. Furioso	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201407	Patrick Denecker	Fitzwilliam Sonata: III. Furioso	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	1	0.0093	MBSO	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201407	Patrick Denecker	Fitzwilliam Sonata: III. Furioso	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201408	Patrick Denecker	Fitzwilliam Sonata: IV. Adagio	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201408	Patrick Denecker	Fitzwilliam Sonata: IV. Adagio	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201409	Patrick Denecker	Fitzwilliam Sonata: V. Alla breve	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201409	Patrick Denecker	Fitzwilliam Sonata: V. Alla breve	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	1	0.0093	MBSO	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201409	Patrick Denecker	Fitzwilliam Sonata: V. Alla breve	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201410	Patrick Denecker	Fitzwilliam Sonata: VI. Andante	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201410	Patrick Denecker	Fitzwilliam Sonata: VI. Andante	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201411	Patrick Denecker	Fitzwilliam Sonata: VII. A tempo di Minuet	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	AT	1	0.0605	MSPP	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201411	Patrick Denecker	Fitzwilliam Sonata: VII. A tempo di Minuet	Scarborough Fair: English, Irish and Scotish Tunes	7502258850787	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201458	Odhecaton	Miserere Mei	De Passione: Motets by Josquin, Obrecht, Weerbecke, CompÃ¨re	7502258850800	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201461	La Reverdie	Sonata I, 100	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201461	La Reverdie	Sonata I, 100	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201462	La Reverdie	Virgo Maria	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201462	La Reverdie	Virgo Maria	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201463	La Reverdie	Ave, Stella Matutina	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201463	La Reverdie	Ave, Stella Matutina	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201464	La Reverdie	Ave Domina Sancta Maria	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.003	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201464	La Reverdie	Ave Domina Sancta Maria	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201465	La Reverdie	Missa Galeazescha: Loco Introitus.Ave, Virgo Gloriosa	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201466	La Reverdie	Missa Galeazescha: Loco Gloria. Ave, Salus Infirmorum	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201466	La Reverdie	Missa Galeazescha: Loco Gloria. Ave, Salus Infirmorum	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201467	La Reverdie	Tousjours Bien	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201468	La Reverdie	Missa Galeazescha: Loco Credo. Ave, Decus Virginale	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201469	La Reverdie	La Martinella	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201470	La Reverdie	Missa Galeazescha: Loco Offertorii. Ave, Sponsa Verbi Summi	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201470	La Reverdie	Missa Galeazescha: Loco Offertorii. Ave, Sponsa Verbi Summi	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201471	La Reverdie	Tota Pulchra Es	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201471	La Reverdie	Tota Pulchra Es	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201472	La Reverdie	Missa Galeazescha: Loco Sanctus. O Maria	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201472	La Reverdie	Missa Galeazescha: Loco Sanctus. O Maria	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201473	La Reverdie	Missa Galeazescha: Ad Elevationem. Adoramus Te, Christe	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201473	La Reverdie	Missa Galeazescha: Ad Elevationem. Adoramus Te, Christe	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201474	La Reverdie	L'homme Banni	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201474	La Reverdie	L'homme Banni	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201475	La Reverdie	Missa Galeazescha: Loco Agnus. Salve, Mater Salvatoris	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201475	La Reverdie	Missa Galeazescha: Loco Agnus. Salve, Mater Salvatoris	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201476	La Reverdie	Christi Mater, Ave	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201476	La Reverdie	Christi Mater, Ave	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201477	La Reverdie	Ave, Pulcherrima Regina	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201477	La Reverdie	Ave, Pulcherrima Regina	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201478	La Reverdie	Missa Galeazescha: Loco Deo Gratis. Virginis Mariae Laudes	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201478	La Reverdie	Missa Galeazescha: Loco Deo Gratis. Virginis Mariae Laudes	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201479	La Reverdie	Ave Maria Gratia Plena	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201479	La Reverdie	Ave Maria Gratia Plena	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201480	La Reverdie	Etzliche Punctenn aus einer Sonada	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201481	La Reverdie	Mater Digna Dei	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201482	La Reverdie	Sonata II, 6	Loyset CompÃ¨re: Missa Galeazescha	7502258850817	FR	2	0.0113	MPRM	The Recording Consort (MERLIN)	167	Cantus Records
+01-11-2012	30-11-2012	MX2831201606	Sergio Franqueira	EspaÃ±a: 6 Hojas de Ãlbum, Op. 165, B37: I. Preludio	Isaac AlbÃ©niz: Recuerdos de EspaÃ±a	7502258850824	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Sergio Franqueira
+01-11-2012	30-11-2012	MX2831201608	Sergio Franqueira	EspaÃ±a: 6 Hojas de Ãlbum, Op. 165, B37: III. MalagueÃ±a	Isaac AlbÃ©niz: Recuerdos de EspaÃ±a	7502258850824	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Sergio Franqueira
+01-11-2012	30-11-2012	MX2831201252	Cuarteto de Guitarras Manuel M. Ponce	DespuÃ©s de la Lluvia... Cristal	Artificios	7509708020868	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201253	Cuarteto de Guitarras Manuel M. Ponce	Episodios	Artificios	7509708020868	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201245	Steve Gorn	Dreaming Shree	Dreaming Mexico: Shades Of Time	7509708031109	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201246	Steve Gorn	Calling the Spirits	Dreaming Mexico: Shades Of Time	7509708031109	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201247	Steve Gorn	Udu Udu	Dreaming Mexico: Shades Of Time	7509708031109	FR	1	0.0057	MPRM	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201251	Steve Gorn	Tlaxcala Walk	Dreaming Mexico: Shades Of Time	7509708031109	FR	1	0.0015	MMOD	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201536	Gustavo Rivero Weber	Balada Mexicana	MÃºsica Mexicana para Piano Vol. 1	7509708970170	FR	1	0.0149	MBPP	The Recording Consort (MERLIN)	167	Quindecim Recordings
+01-11-2012	30-11-2012	MX2831201536	Gustavo Rivero Weber	Balada Mexicana	MÃºsica Mexicana para Piano Vol. 1	7509708970170	FR	1	0.0094	MPLS	The Recording Consort (MERLIN)	167	Quindecim Recordings

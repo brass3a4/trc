@@ -1,0 +1,26 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+05/06/2012	06/02/2012	7502258850305		7502258850305	1	7.20	7.20	EUR	S	433293011	Guillaume de Machaut,Ensemble Gilles Binchois,Dominique Vellard	Guillaume de Machaut: Le vray remède d’amour	Cantus Records		I		FR			11.99	EUR
+05/06/2012	06/02/2012		MX2831000798	MX2831000798	1	0.71	0.71	EUR	S	438915622	YOA Orchestra of the Americas,Ben Zander	Candide Overture	iTinerant classics		H		GB			0.79	GBP
+05/06/2012	06/02/2012	7502258850107		7502258850107	2	7.20	14.40	EUR	S	405509711	Musica Antiqua,Christian Mendoze	Schiarazula Marazula: Italian dances of the Renaissance	Cantus Records		I		DE			11.99	EUR
+05/06/2012	06/02/2012		MX2831000765	MX2831000765	1	0.92	0.92	EUR	S	433293015	Guillaume de Machaut,Ensemble Gilles Binchois,Dominique Vellard	Virelai: Je vivroie liement	Cantus Records		H		FR			1.29	EUR
+05/06/2012	06/02/2012	7502258850176		7502258850176	1	6.00	6.00	EUR	S	405916259	Raúl Mallavibarrena,Musica Ficta,Francisco Guerrero	Francisco Guerrero: Motets	Cantus Records		I		DE			9.99	EUR
+05/06/2012	06/02/2012		MX2831000979	MX2831000979	1	0.71	0.71	EUR	S	477683826	Cuarteto de Saxofones de México	Portales de Madrugada	Videophonic		H		GB			0.79	GBP
+05/06/2012	06/02/2012		MX2831000532	MX2831000532	1	0.92	0.92	EUR	S	406818301	Raúl Mallavibarrena,Musica Ficta,Cristobal de Morales	Requiem: Introitus 1	Cantus Records		H		GB			0.99	GBP
+05/06/2012	06/02/2012		MX2831000692	MX2831000692	1	0.92	0.92	EUR	S	433521255	G. de Machaut,Cantus artists	Medieval fiddle: Joie, plaisance	Cantus Records		H		GB			0.99	GBP
+05/06/2012	06/02/2012	7502258850251		7502258850251	1	12.00	12.00	EUR	S	406843010	Ensemble Martin Codax	Devotio: Medieval Spanish Music for the Virgin and St James	Cantus Records		I		RO			19.99	EUR
+05/06/2012	06/02/2012		MX2831000763	MX2831000763	1	0.92	0.92	EUR	S	433293013	Guillaume de Machaut,Ensemble Gilles Binchois,Dominique Vellard	Virelai: Dame, vostre doulz viaire	Cantus Records		H		FR			1.29	EUR
+05/06/2012	06/02/2012		MX2831000641	MX2831000641	1	0.92	0.92	EUR	S	411427371	Ensemble Gilles Binchois,Dominique Vellard,12th c.	Ave Maris Stella (Conductus à trois voix)	Cantus Records		H		CH			2.20	CHF
+05/06/2012	06/02/2012		MX2831000244	MX2831000244	1	0.92	0.92	EUR	S	424190723	Raquel Andueza,La Galanía	Yo Soy la Locura	Anima e Corpo		H		FR			1.29	EUR
+05/06/2012	06/02/2012		MX2831000516	MX2831000516	1	0.92	0.92	EUR	S	406779396	Jacques Bona,Guillaume de Machaut,Gilles Binchois,Gerd Turk,Emmanuel Bonnardot,Dominique Vellard,Andreas Scholl	Kyrie Eleison	Cantus Records		H		DE			1.29	EUR
+05/06/2012	06/02/2012		MX2831000549	MX2831000549	1	0.92	0.92	EUR	S	406818318	Raúl Mallavibarrena,Musica Ficta,Cristobal de Morales	Requiem: Agnus Dei 3	Cantus Records		H		DE			1.29	EUR
+05/06/2012	06/02/2012		MX2831000801	MX2831000801	1	0.71	0.71	EUR	S	438940922	YOA Orchestra of the Americas,Carlos Miguel Prieto	Symphony No.6 in B minor Op. 54: II Allegro	iTinerant Classics		H		DE			0.99	EUR
+05/06/2012	06/02/2012		MX2831000716	MX2831000716	1	0.92	0.92	EUR	S	433521357	G. de Machaut,Cantus artists	Medieval recorder: Tels rit au main	Cantus Records		H		GB			0.99	GBP
+05/06/2012	06/02/2012	7502258850114		7502258850114	1	6.00	6.00	EUR	S	405696535	Tripla Concordia	Musicke from the Ayre: Consort music by Jenkins, Locke & Purcell	Cantus Records		I		FR			9.99	EUR
+05/06/2012	06/02/2012	7502258850039		7502258850039	1	7.20	7.20	EUR	S	433307204	Tomás Luis de Victoria,Raúl Mallavibarrena,Musica Ficta	Tomás Luis de Victoria: Lamentations of Jeremiah	Cantus Records		I		IT			11.99	EUR
+05/06/2012	06/02/2012		MX2831000550	MX2831000550	1	0.92	0.92	EUR	S	406818319	Raúl Mallavibarrena,Musica Ficta,Cristobal de Morales	Requiem: Communio 1	Cantus Records		H		DE			1.29	EUR
+05/06/2012	06/02/2012	7502258850121		7502258850121	1	6.00	6.00	EUR	S	424190590	Raquel Andueza,La Galanía	Yo Soy la Locura	Anima e Corpo Música		I		IT			9.99	EUR
+05/06/2012	06/02/2012	7502258850282		7502258850282	1	7.20	7.20	EUR	S	411404889	Erik Van Nevel,Currende Consort,Concerto Palatino,Capella Sancti Michaelis Vocal Ensemble	Vous ou la mort, Flemish courtly love songs	Cantus Records		I		BE			11.99	EUR
+05/06/2012	06/02/2012		MX2831000548	MX2831000548	1	0.92	0.92	EUR	S	406818317	Raúl Mallavibarrena,Musica Ficta,Cristobal de Morales	Requiem: Agnus Dei 2	Cantus Records		H		DE			1.29	EUR
+Total_Rows	22
+Total_Amount	78.25
+Total_Units	23

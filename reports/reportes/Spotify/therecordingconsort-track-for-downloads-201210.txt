@@ -1,0 +1,11 @@
+Format version	Start date	End date	Sender	Recipient	Aggregator	Disclaimer
+1	10/01/12	10/31/12	Spotify	The Recording Consort	The Recording Consort	Confidential
+Country	Label	Product	URI	UPC	EAN	ISRC	Track name	Artist name	Composer name	Album name	Quantity	USD Payable
+ES	iTinerant Classics	10	spotify:track:0ZRGympO5KP3KTMxK3xfei		7502258850428	MX2831000825	Tres movimientos para Percusin y Piano  III	Do Klarimba	NA	Rubn L Someso Orquesta de cuerda Piano Clarinete bajo	1	0.8303
+ES	Tlen Huicani	1	spotify:track:3nVcOoQYqXBWs2eTtNx5q3		7502258850695	MX2831001240	Mi burrito sabanero	Tlen Huicani Hugo Blanco	NA	Navidad con TlenHuicani	1	1.3286
+FR	Cantus Records	1	spotify:track:2lEIPhllMP9hF1P8KeLpmx		7502258850145	MX2831000294	Kyrie Messe de Nostre Dame	Dominique Vellard Ensemble Gilles Binchois Ensemble Gilles Binchois Guillaume de Machaut	NA	Guillaume de Machaut Le Jugement du Roi de Navarre	1	1.3307
+ES	San Antonio Records	15	spotify:track:5JXeKqk0w7wtjAsloBJMTo		7502258850763	MX2831200059	Captain	The Big Head Troubled Boy Mia Salazar	NA	San Antonio	1	0.6857
+ES	San Antonio Records	10	spotify:track:5JXeKqk0w7wtjAsloBJMTo		7502258850763	MX2831200059	Captain	The Big Head Troubled Boy Mia Salazar	NA	San Antonio	1	0.8303
+ES	Quindecim Recordings	15	spotify:track:0JMixP2pq5qyapySdIJtWj		7509708990369	MX2831200975	Ya Me Voy a Retirar	Alberto Cruzprieto Jesus Suaste Carlos Guastavino	NA	Suaste Canta Guastavino	1	0.6857
+ES	San Antonio Records	15	spotify:track:5JpviaROdYqJS6Byifc4nu		7502258850763	MX2831200061	Ive Been	The Big Head Troubled Boy Mia Salazar	NA	San Antonio	1	0.6857
+ES	San Antonio Records	100	spotify:track:5JpviaROdYqJS6Byifc4nu		7502258850763	MX2831200061	Ive Been	The Big Head Troubled Boy Mia Salazar	NA	San Antonio	1	0.5250

@@ -1,0 +1,8 @@
+Format version	Start date	End date	Recipient	Aggregator
+1	10/01/12	10/31/12	The Recording Consort	The Recording Consort
+Product	Currency	Payable	Payable EUR	Payable USD
+Streaming	EUR	54.4135	54.4135	70.5062
+Streaming	GBP	3.6325	4.5162	5.8526
+Streaming	USD	9.0183	6.9592	9.0183
+Downloads	EUR	5.3266	5.3266	6.9020
+Telia Breakage	EUR	0.5433	0.5433	0.7039

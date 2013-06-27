@@ -1,0 +1,116 @@
+3.3.1
+A bug with FireFox and roll-over area fixed
+
+3.3.0
+linesAboveImages property added to AmMap, default value is true.
+
+minValue and maxValue properties added to AmMap. Use them in case you set values for your areas and wish
+to set a different minValue (it's 0 by default) or maxValue (it's actual maxValue by default).
+These values are used when choosing a color for an area.
+
+AmMap now supports negative values.
+
+getDevInfo() method added to AmMap. Returns object with a lot of information about the coordinate where the
+mouse currently is:
+{type:"writeDevInfo", chart:AmMap, zoomLevel:zoomLevel, zoomX:zoomX, zoomY:zoomY, zoomLatitude:zoomLatitude,
+zoomLongitude:zoomLongitude, latitude:latitude, longitude:longitude, left:left, top:top, right:right,
+bottom:bottom, percentLeft:percentLeft, percentTop:percentTop, percentRight:percentRight,
+percentBottom:percentBottom, str:string}
+
+"click" event added to AmMap. fired everytime user clicks on a map, except if the map was dragged or zoomed-in with zoomControl.
+By using this event and getDevInfo method you can build your custom map editing user interface.
+
+"rendered" event added to AmChart class. fired only once, when chart is first rendered.
+
+zoomToGroup method can accept not only a group id but also array of areas.
+
+selectedOutlineColor property added to AreasSettings.
+
+3.2.1
+
+FIX: clickMapObject event was not always fired.
+
+3.2.0
+IMPORTANT! All included maps were updated to follow ISO country and region codes.
+All world maps use two-digit ISO codes. All country-level maps use country code dash region code notation,
+i.e. US-AK. Please note that this is different from the codes we used previously which used underscores.
+Map files for consistency were also renamed to correspond to the map entity names,
+i.e. usaLow.js and AmCharts.maps.usaLow.
+
+
+FEATURES:
+lines have bigger hit area;
+
+selectedLabelColor property added to MapImage and ImagesSettings.
+
+balloonLabelFunction added to AmMap
+
+allowClickOnSelectedObject added to AmMap, default value true
+
+FIXES:
+lines and some other objects had hand cursor even if they were not clickable.
+
+
+3.1.0
+Zooming with mouse wheel wasn't working properly.
+
+zoomToObject(mapObject) method added added;
+
+images could be resized incorrectly after zoom on mouse over.
+
+3.0.9
+
+AmCharts.clear method added. Call this method if you want completely to remove all charts from a page.
+
+Memory leak fixed.
+
+3.0.8
+
+new maps were added, some maps were updated.
+
+3.0.7
+
+balloon could be wrongly positioned in marginTop style was added directly to <html> element.
+
+3.0.6
+
+Object's position accuracy increased.
+Objects list wasn't cleared when drill-down map was used.
+zoomCompleted event wasn't always fired.
+
+3.0.5
+
+showDescriptionOnHover property added to AmMap class. If you set it to true,
+description window instead of a balloon will be displayed when hovering MapObject.
+
+descriptionWindowX, descriptionWindowY, descriptionWindowWidth and
+descriptionWindowHeight properties added to ImagesSettings, AreasSettings and
+LinesSettings. Allows you to set these properties for all objects of the type.
+
+HTML can be displayed in description window.
+
+Map wasn't correctly resized if container of a map changed and map.invalidateSize()
+method was called.
+
+Some other minor bugs fixed.
+
+New maps were added.
+
+3.0.4
+
+Some minor bugs fixed
+
+3.0.3
+
+Bug fixes:
+Blurry lines on all browsers fixed
+
+3.0.2
+numberFormatter was not working when formatting values in balloon.
+problems with window resizing fixed.
+some other problems fixed
+
+3.0.1
+Some minor bugs fixed
+
+3.0 is Out!

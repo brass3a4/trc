@@ -1,0 +1,91 @@
+<div class="table">
+<table>
+<tr>
+	<th>Fuente</th>
+	<th>channel</th>
+	<th>label</th>
+	<th>country</th>
+	<th>city</th>
+	<th>artist</th>
+	<th>album</th>
+	<th>trackVideoTitle</th>
+	<th>upc</th>
+	<th>isrc</th>
+	<th>reportDate</th>
+	<th>units</th>
+	<th>saleReturn</th>
+	<th>customerPrice</th>
+	<th>cmaDiscount</th>
+	<th>royaltyPrice</th>
+	<th>royaltyCurrency</th>
+	<th>royaltyEuros</th>
+	<th>watchViews</th>
+	<th>embedViews</th>
+	
+</tr>
+<?php foreach ($res as $row){
+	echo "<tr>";
+		echo "<td>";
+			echo $row['tipoRegistro'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['channel'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['label'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['country'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['city'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['artist'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['album'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['trackVideoTitle'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['upc'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['isrc'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['reportDate'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['units'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['saleReturn'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['customerPrice'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['cmaDiscount'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['royaltyPrice'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['royaltyCurrency'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['royaltyEuros'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['watchViews'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['embedViews'];
+		echo "</td>";
+	echo "</tr>";
+}?>
+</table>
+</div>

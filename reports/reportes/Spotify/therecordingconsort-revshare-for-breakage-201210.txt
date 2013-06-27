@@ -1,0 +1,5 @@
+Format version	Start date	End date	Recipient	Disclaimer
+1	10/01/12	10/31/12	The Recording Consort	Confidential
+Label	Partner	Product	Country	Currency	Pro rata share	Months committed but not activated	Fee per month	Payable type	Payable	Payable EUR	Payable USD
+Alqhai & Alqhai	telia	Telia Breakage	SE	EUR	0.00	172922.26	2.235	per_user_payable	0.5195	0.5195	0.6731
+Quindecim Recordings	telia	Telia Breakage	SE	EUR	0.00	172922.26	2.235	per_user_payable	0.0238	0.0238	0.0308

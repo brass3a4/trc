@@ -1,0 +1,156 @@
+# field description table
+field,description
+ad_enabled_views,All video views enabled for ads with a policy of 'share'.
+afv_revenue,Total revenue generated from AdSense for Video.
+amount_payable,Revenue owed to partner.
+asset_channel,"The owner of the associated asset(s), useful for tying UGC matches back to the original owner."
+asset_id,"YouTube-generated ID(s) for the associated asset(s), useful for tying UGC matches of your content to the official content."
+category,The type of video as displayed in the video's (More info) section.
+claim_origin,How the video was claimed.
+claim_type,"Whether the audio track, video track, or both have been claimed by YouTube partner."
+content_policy,"share = enabled for revenue sharing, free = not enabled for revenue sharing."
+content_type,"Type of claimed content: commercial = uploaded by YouTube partner; premium = Uploaded by third party, with copyrighted segments meeting certain length and proportionality requirements to be treated same as partner uploaded licensed content for revenue sharing; ugc = claimed by YouTube partner, but uploaded by third party."
+country,The country in a per-country table.
+currency_code,Unit of currency. Typically USD.
+custom_id,An optional field used to uniquely identify one's content. Some partners may have other metadata fields to identify or describe their content.
+day,The day in a per-day table.
+embed_views,Number of off-site embedded views for which the video started playing.
+estimated_rpm,"Net revenue per thousand ad-enabled video view starts. If you have partner-sold revenue or other revenue, net revenues are estimated in this calculation and final values should be determined from actual invoices."
+filename,The name of this file.
+has_multiple_claims,yes if more than one YouTube partner is claiming this video.
+id,An internally generated YouTube sequence number to differentiate reports.
+other_revenue,Total revenue generated from third party ad servers.
+partner_sold_revenue,"Total revenue generated from ads that were partner-sold and YouTube-served, excluding partner-served ads."
+policy,"share = enabled for revenue sharing, free = not enabled for revenue sharing."
+recipient_id,An internally generated unique code per YouTube partner.
+recipient_name,The name of the YouTube partner.
+report_period_end_date,The last day of this period.
+report_period_start_date,The first day of this period.
+timestamp,The time that this report was generated.
+title,The title of the video from the provided meta data.
+uploader,The user account of the uploader of the video.
+username,The user account of the owner of the video.
+video_duration,The duration of the video in seconds.
+video_id,The id by which this video is referenced.
+video_title,The title of the video from the uploader.
+watch_views,Number of views on the video's YouTube watch page for which the video started playing.
+youtube_sold_revenue,"Total revenue generated from Google-sold ads, excluding revenue from AdSense for Video."
+
+# header table
+field,value
+id,1341964442
+recipient_id,bkIRdAXa0Ew
+recipient_name,TheRecordingConsort
+filename,YouTube_TheRecordingConsort_M_20120601_20120630_report.csv
+report_period_start_date,2012-06-01
+report_period_end_date,2012-06-30
+timestamp,2012-07-10T16:54:02
+currency_code,USD
+
+# grand total table
+embed_views,watch_views,ad_enabled_views,youtube_sold_revenue,partner_sold_revenue,afv_revenue,amount_payable,estimated_rpm
+12,249,243,0.298896,0,0,0.121,0.50
+
+# day table
+day,content_type,policy,embed_views,watch_views,youtube_sold_revenue,partner_sold_revenue,afv_revenue,amount_payable,estimated_rpm
+20120601,commercial,free,0,1,0.00155,0,0,0.000627,
+20120602,commercial,free,0,1,0,0,0,0,
+20120610,commercial,free,1,0,0,0,0,0,
+20120611,commercial,free,0,2,0,0,0,0,
+20120614,commercial,free,0,1,0,0,0,0,
+20120617,commercial,free,0,3,0,0,0,0,
+20120618,commercial,free,0,2,0,0,0,0,
+20120620,commercial,free,0,1,0,0,0,0,
+20120624,commercial,free,0,1,0,0,0,0,
+20120628,commercial,free,0,3,0,0,0,0,
+20120630,commercial,free,0,2,0,0,0,0,
+20120601,commercial,share,3,10,0.021433,0,0,0.008676,0.67
+20120602,commercial,share,0,7,0.00608,0,0,0.002462,0.35
+20120603,commercial,share,0,8,0.0093,0,0,0.003763,0.47
+20120604,commercial,share,1,10,0.0149,0,0,0.006032,0.55
+20120605,commercial,share,0,8,0.01144,0,0,0.004632,0.58
+20120606,commercial,share,0,2,0.00288,0,0,0.001166,0.58
+20120607,commercial,share,0,15,0.034311,0,0,0.013893,0.93
+20120608,commercial,share,0,4,0.00675,0,0,0.002731,0.68
+20120609,commercial,share,1,3,0.00405,0,0,0.001638,0.41
+20120610,commercial,share,0,10,0.01197,0,0,0.005025,0.50
+20120611,commercial,share,0,10,0.0137,0,0,0.005545,0.55
+20120612,commercial,share,0,3,0.013283,0,0,0.005743,1.91
+20120613,commercial,share,0,3,0.00895,0,0,0.003622,1.21
+20120614,commercial,share,0,4,0.012,0,0,0.00486,1.22
+20120615,commercial,share,0,6,0.01506,0,0,0.006097,1.02
+20120616,commercial,share,0,6,0.00434,0,0,0.001756,0.29
+20120617,commercial,share,0,3,0,0,0,0,
+20120618,commercial,share,1,19,0.00187,0,0,0.000757,0.04
+20120619,commercial,share,0,11,0.01184,0,0,0.004794,0.44
+20120620,commercial,share,2,25,0.01029,0,0,0.004165,0.15
+20120621,commercial,share,0,13,0.01395,0,0,0.005647,0.43
+20120622,commercial,share,0,10,0.018839,0,0,0.007627,0.76
+20120623,commercial,share,2,4,0.00471,0,0,0.001905,0.32
+20120624,commercial,share,0,5,0.00489,0,0,0.00198,0.40
+20120625,commercial,share,0,5,0.0086,0,0,0.003482,0.70
+20120626,commercial,share,1,7,0.0127,0,0,0.005141,0.64
+20120627,commercial,share,0,4,0,0,0,0,
+20120628,commercial,share,0,5,0.01317,0,0,0.005333,1.07
+20120629,commercial,share,0,1,0,0,0,0,
+20120630,commercial,share,0,6,0,0,0,0,
+20120603,ugc,share,0,1,0.00155,0,0,0.000488,0.49
+20120611,ugc,share,0,0,0.00137,0,0,0.000431,
+20120620,ugc,share,0,1,0,0,0,0,
+20120621,ugc,share,0,1,0.00155,0,0,0.000488,0.49
+20120623,ugc,share,0,1,0.00157,0,0,0.000494,0.49
+20120627,ugc,share,0,1,0,0,0,0,
+
+# country table
+country,content_type,policy,embed_views,watch_views,youtube_sold_revenue,partner_sold_revenue,afv_revenue,amount_payable,estimated_rpm
+AE,commercial,free,0,3,0,0,0,0,
+AM,commercial,free,0,1,0,0,0,0,
+AW,commercial,free,0,1,0,0,0,0,
+DE,commercial,free,0,1,0,0,0,0,
+EC,commercial,free,0,1,0,0,0,0,
+GT,commercial,free,0,1,0,0,0,0,
+IQ,commercial,free,0,2,0,0,0,0,
+PT,commercial,free,1,0,0,0,0,0,
+PY,commercial,free,0,3,0,0,0,0,
+RO,commercial,free,0,1,0,0,0,0,
+SE,commercial,free,0,1,0,0,0,0,
+SV,commercial,free,0,1,0,0,0,0,
+ZZ,commercial,free,0,1,0.00155,0,0,0.000627,
+AR,commercial,share,0,6,0.00785,0,0,0.003176,0.53
+AU,commercial,share,0,1,0,0,0,0,
+BE,commercial,share,0,0,0.00135,0,0,0.000546,
+BR,commercial,share,0,5,0.0027,0,0,0.001092,0.22
+CA,commercial,share,0,1,0,0,0,0,
+CL,commercial,share,0,3,0.00135,0,0,0.000546,0.18
+CO,commercial,share,0,1,0.00148,0,0,0.000599,0.60
+DE,commercial,share,0,6,0,0,0,0,
+ES,commercial,share,10,153,0.219606,0,0,0.088907,0.55
+FR,commercial,share,0,5,0.0052,0,0,0.002105,0.42
+IL,commercial,share,0,3,0,0,0,0,
+IT,commercial,share,0,1,0.01557,0,0,0.006305,6.30
+MX,commercial,share,0,22,0.02115,0,0,0.008561,0.39
+NL,commercial,share,0,1,0.00155,0,0,0.000627,0.63
+PE,commercial,share,0,2,0.00384,0,0,0.001554,0.78
+PL,commercial,share,0,1,0.00251,0,0,0.001016,1.02
+PT,commercial,share,0,1,0,0,0,0,
+PY,commercial,share,0,1,0,0,0,0,
+RO,commercial,share,1,2,0,0,0,0,
+RU,commercial,share,0,1,0.00157,0,0,0.000635,0.64
+US,commercial,share,0,10,0.00403,0,0,0.002176,0.22
+ZZ,commercial,share,0,1,0.00155,0,0,0.000627,0.63
+AR,ugc,share,0,1,0.00155,0,0,0.000488,0.49
+CH,ugc,share,0,1,0,0,0,0,
+ES,ugc,share,0,3,0.00449,0,0,0.001413,0.47
+
+# video table
+video_id,content_type,policy,video_title,video_duration,username,uploader,claim_type,claim_origin,embed_views,watch_views,youtube_sold_revenue,partner_sold_revenue,afv_revenue,amount_payable,estimated_rpm,has_multiple_claims,category,asset_id,asset_channel,custom_id,isrc,grid,upc,artist,title,album,label
+0Edwb69HRv0,commercial,share,iTinerant Classics Presentación de disco Rubén L Someso 2010 I,250,TheRecordingConsort,itinerantclassics,Audio-Visual,Descriptive Search,0,1,0.011933,0,0,0.004831,4.83,no,people,A525044009943621,itinerantclassics,,,,,,,,
+2YW0Q5glttY,commercial,free,"CD ""Voleras. Entre seguidilla y bolera"" (Delia Agúndez & Fernando Antón) [Parte II]",143,TheRecordingConsort,Ferandiere,Audio-Visual,Descriptive Search,1,3,0,0,0,0,,no,music,A727203791220776,Ferandiere,,,,,,"CD ""Voleras. Entre seguidilla y bolera"" (Delia Agúndez & Fernando Antón) [Parte II]",,
+2YW0Q5glttY,commercial,share,"CD ""Voleras. Entre seguidilla y bolera"" (Delia Agúndez & Fernando Antón) [Parte II]",143,TheRecordingConsort,Ferandiere,Audio-Visual,Descriptive Search,2,64,0.034479,0,0,0.01432,0.22,no,music,A727203791220776,Ferandiere,,,,,,"CD ""Voleras. Entre seguidilla y bolera"" (Delia Agúndez & Fernando Antón) [Parte II]",,
+5uu6B_5lV24,commercial,free,"CD ""Voleras. Entre seguidilla y bolera"" (Delia Agúndez & Fernando Antón)",213,TheRecordingConsort,Ferandiere,Audio-Visual,Descriptive Search,0,12,0.00155,0,0,0.000627,,no,music,A329709436468919,Ferandiere,,,,,,"CD ""Voleras. Entre seguidilla y bolera"" (Delia Agúndez & Fernando Antón)",,
+5uu6B_5lV24,commercial,share,"CD ""Voleras. Entre seguidilla y bolera"" (Delia Agúndez & Fernando Antón)",213,TheRecordingConsort,Ferandiere,Audio-Visual,Descriptive Search,2,51,0.067893,0,0,0.027484,0.52,no,music,A329709436468919,Ferandiere,,,,,,"CD ""Voleras. Entre seguidilla y bolera"" (Delia Agúndez & Fernando Antón)",,
+IzQS7PCgf0E,commercial,share,Video Grabación Delia Agúndez y Fernando Antón,40,TheRecordingConsort,therecordingconsort,Audio-Visual,Web Upload,2,26,0.03359,0,0,0.013598,0.49,no,music,A276168055631009,therecordingconsort,IzQS7PCgf0E,,,,,Video Grabación Delia Agúndez y Fernando Antón,,
+ObKFBzZDGUg,commercial,free,Delia Agúndez | Fernando Antón: VOLERAS: Entre seguidilla y bolera,213,TheRecordingConsort,therecordingconsort,Audio-Visual,Web Upload,0,2,0,0,0,0,,no,music,A461909620701003,therecordingconsort,ObKFBzZDGUg,,,,,Delia Agúndez | Fernando Antón: VOLERAS: Entre seguidilla y bolera,,
+ObKFBzZDGUg,commercial,share,Delia Agúndez | Fernando Antón: VOLERAS: Entre seguidilla y bolera,213,TheRecordingConsort,therecordingconsort,Audio-Visual,Web Upload,5,71,0.118051,0,0,0.047972,0.63,no,music,A461909620701003,therecordingconsort,ObKFBzZDGUg,,,,,Delia Agúndez | Fernando Antón: VOLERAS: Entre seguidilla y bolera,,
+aEoJXeJDSYI,commercial,share,Video Grabación Raquel Andueza y Jesús Fernández Baena,34,TheRecordingConsort,therecordingconsort,Audio-Visual,Web Upload,0,14,0.02536,0,0,0.010267,0.73,no,music,A162788862164385,therecordingconsort,aEoJXeJDSYI,,,,,Video Grabación Raquel Andueza y Jesús Fernández Baena,,
+rcFGqdPOD4Y,ugc,share,VOLERAS: Entre seguidilla y bolera | Delia Agúndez & Fernando Antón,213,TheRecordingConsort,itinerantclassics,Audio-Visual,Video Match,0,5,0.00604,0,0,0.001901,0.38,no,music,A461909620701003,therecordingconsort,ObKFBzZDGUg,,,,,Delia Agúndez | Fernando Antón: VOLERAS: Entre seguidilla y bolera,,
