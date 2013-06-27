@@ -167,7 +167,7 @@ function guarda_columnas($post,$obtener_datos){
 					foreach ($datos['registros'] as $registro) {
 						//
 						//
-						$sql = " INSERT INTO $table_name (Idreferencia,tipoRegistro,label,country,artist,isrc,units,saleReturn,customerPrice,cmaDiscount,royaltyPrice,royaltyCurrency) VALUES ('{$registro[12]}','iTunes','{$registro[7]}','{$registro[18]}','{$registro[5]}','{$registro[4]}','{$registro[9]}','{$registro[16]}','{$registro[22]}','{$registro[24]}','{$registro[10]}','{$registro[19]}');";
+						//$sql = " INSERT INTO $table_name (Idreferencia,tipoRegistro,label,country,artist,isrc,units,saleReturn,customerPrice,cmaDiscount,royaltyPrice,royaltyCurrency) VALUES ('{$registro[12]}','iTunes','{$registro[7]}','{$registro[18]}','{$registro[5]}','{$registro[4]}','{$registro[9]}','{$registro[16]}','{$registro[22]}','{$registro[24]}','{$registro[10]}','{$registro[19]}');";
 						//$sql = " INSERT INTO $table_name (Idreferencia,channel,label,country,city,artist,album,trackVideoTitle,upc,isrc,reportDate,units,saleReturn,customerPrice,cmaDiscount,royaltyPrice,royaltyCurrency,royaltyEuros,watchViews,embedViews) VALUES ('{$registro['provider']}','{$registro['provider_contry']}','{$registro['vendor_identifier']}');";
 						$wpdb->query($sql);	
 
