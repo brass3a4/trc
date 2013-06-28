@@ -21,6 +21,13 @@
 	<th>royaltyEuros</th>
 	<th>watchViews</th>
 	<th>embedViews</th>
+	<th>productType</th>
+	<th>customerPrice2</th>
+	<th>storeEarn</th>
+	<th>royaltyPriceEuros1</th>
+	<th>royaltyPriceEuros2</th>
+	<th>trcCommission</th>
+	<th>labelArtistRoyalty</th>
 	
 </tr>
 <?php foreach ($res as $row){
@@ -84,6 +91,27 @@
 		echo "</td>";
 		echo "<td>";
 			echo $row['embedViews'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['productType'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['customerPrice2'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['storeEarn'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['royaltyPriceEuros1'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['royaltyPriceEuros2'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['trcCommission'];
+		echo "</td>";
+		echo "<td>";
+			echo $row['labelArtistRoyalty'];
 		echo "</td>";
 	echo "</tr>";
 }?>

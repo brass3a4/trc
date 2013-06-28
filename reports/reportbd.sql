@@ -130,7 +130,7 @@ DROP TABLE IF EXISTS `trc`.`registros` ;
 CREATE  TABLE IF NOT EXISTS `trc`.`registros` (
   `idregistros` INT NOT NULL AUTO_INCREMENT ,
   `tipoRegistro` VARCHAR(150) NOT NULL ,
-  `Idreferencia` INT NULL COMMENT 'Este campo puede\nser upc-isrc-isbn ' ,
+  `Idreferencia` VARCHAR(20) NULL COMMENT 'Este campo puede\nser upc-isrc-isbn ' ,
   `channel` VARCHAR(150) NULL ,
   `label` VARCHAR(500) NULL ,
   `country` VARCHAR(4) NULL ,
@@ -146,10 +146,17 @@ CREATE  TABLE IF NOT EXISTS `trc`.`registros` (
   `customerPrice` FLOAT NULL ,
   `cmaDiscount` FLOAT NULL ,
   `royaltyPrice` FLOAT NULL ,
-  `royaltyCurrency` FLOAT NULL ,
+  `royaltyCurrency` VARCHAR(4) NULL ,
   `royaltyEuros` FLOAT NULL ,
   `watchViews` INT NULL ,
   `embedViews` INT NULL ,
+  `productType` VARCHAR(10) NULL ,
+  `customerPrice` FLOAT NULL ,
+  `storeEarn` FLOAT NULL ,
+  `royaltyPriceEuros1` FLOAT NULL ,
+  `royaltyPriceEuros2` FLOAT NULL ,
+  `trcCommission` FLOAT NULL ,
+  `labelArtistRoyalty` FLOAT NULL ,
   PRIMARY KEY (`idregistros`) ,
   UNIQUE INDEX `Idreferencia_UNIQUE` (`Idreferencia` ASC) )
 ENGINE = InnoDB;

@@ -65,28 +65,37 @@ function trc_instala(){
 	$table_name= $wpdb->prefix . "registros";
     $sql = "CREATE  TABLE IF NOT EXISTS $table_name (
 	  `idregistros` INT NOT NULL AUTO_INCREMENT ,
-	  `tipoRegistro` VARCHAR(150) NOT NULL ,
-	  `Idreferencia` VARCHAR(20) NULL COMMENT 'Este campo puede\nser upc-isrc-isbn ' ,
-	  `channel` VARCHAR(150) NULL ,
-	  `label` VARCHAR(500) NULL ,
-	  `country` VARCHAR(4) NULL ,
-	  `city` VARCHAR(45) NULL ,
-	  `artist` VARCHAR(500) NULL ,
-	  `album` VARCHAR(150) NULL ,
-	  `trackVideoTitle` VARCHAR(150) NULL ,
-	  `upc` VARCHAR(45) NULL ,
-	  `isrc` VARCHAR(45) NULL ,
-	  `reportDate` DATE NULL ,
-	  `units` INT NULL ,
-	  `saleReturn` VARCHAR(45) NULL ,
-	  `customerPrice` FLOAT NULL ,
-	  `cmaDiscount` FLOAT NULL ,
-	  `royaltyPrice` FLOAT NULL ,
-	  `royaltyCurrency` VARCHAR(4) NULL ,
-	  `royaltyEuros` FLOAT NULL ,
-	  `watchViews` INT NULL ,
+  `tipoRegistro` VARCHAR(150) NOT NULL ,
+  `Idreferencia` VARCHAR(20) NULL COMMENT 'Este campo puede\nser upc-isrc-isbn ' ,
+  `channel` VARCHAR(150) NULL ,
+  `label` VARCHAR(500) NULL ,
+  `country` VARCHAR(4) NULL ,
+  `city` VARCHAR(45) NULL ,
+  `artist` VARCHAR(500) NULL ,
+  `album` VARCHAR(150) NULL ,
+  `trackVideoTitle` VARCHAR(150) NULL ,
+  `upc` VARCHAR(45) NULL ,
+  `isrc` VARCHAR(45) NULL ,
+  `reportDate` DATE NULL ,
+  `units` INT NULL ,
+  `saleReturn` VARCHAR(45) NULL ,
+  `customerPrice` FLOAT NULL ,
+  `cmaDiscount` FLOAT NULL ,
+  `royaltyPrice` FLOAT NULL ,
+  `royaltyCurrency` VARCHAR(4) NULL ,
+  `royaltyEuros` FLOAT NULL ,
+  `watchViews` INT NULL ,
   `embedViews` INT NULL ,
-	  PRIMARY KEY (`idregistros`))
+  `productType` VARCHAR(10) NULL ,
+  `customerPrice2` FLOAT NULL ,
+  `storeEarn` FLOAT NULL ,
+  `royaltyPriceEuros1` FLOAT NULL ,
+  `royaltyPriceEuros2` FLOAT NULL ,
+  `trcCommission` FLOAT NULL ,
+  `labelArtistRoyalty` FLOAT NULL ,
+  PRIMARY KEY (`idregistros`) 
+  
+  )
 	ENGINE = InnoDB;";
 	$wpdb->query($sql);
 	
@@ -133,6 +142,19 @@ function csv_panel(){
 	
 }
 
+function conversor_divisas($divisa_origen, $divisa_destino, $cantidad) {
+    $cantidad = urlencode($cantidad);
+    $divisa_origen = $divisa_origen;
+    $divisa_destino = $divisa_destino;
+    $url = "http://www.google.com/ig/calculator?hl=en&q=$cantidad$divisa_origen=?$divisa_destino";
+    $rawdata = file_get_contents($url);
+    $data = explode('"', $rawdata);
+    $data = explode(' ', $data['3']);
+    $var = $data['0'];
+    return round($var,7);
+    
+}//END FUNCTION
+
 function guarda_columnas($post,$obtener_datos){
 	
 	global $wpdb;
@@ -146,14 +168,18 @@ function guarda_columnas($post,$obtener_datos){
 		case '1':
 			
 				if(isset($datos) && !empty($datos)){
-					 
+				
 					foreach ($datos['registros'] as $registro) {
 						//
-						//
-						$sql = " INSERT INTO $table_name (Idreferencia,tipoRegistro,label,country,artist,isrc,units,saleReturn,customerPrice,cmaDiscount,royaltyPrice,royaltyCurrency) VALUES ('{$registro[12]}','iTunes','{$registro[7]}','{$registro[18]}','{$registro[5]}','{$registro[4]}','{$registro[9]}','{$registro[16]}','{$registro[22]}','{$registro[24]}','{$registro[10]}','{$registro[19]}');";
+						$productType = ($registro[8] == 'I') ? 'Album' : 'Track' ;
+						$customerPrice2 = (float) $registro[9]* (float) $registro[22];
+						$storeEarn = (float) $registro[22]* (float) $registro[10];
+						$royaltyPriceEuros1 = conversor_divisas($registro[19],'EUR',$registro[10]);
+						$royaltyPriceEuros2 = ($registro[16] == 'S') ? $royaltyPriceEuros1 : 0 ;
+						$sql = "INSERT INTO $table_name (Idreferencia,tipoRegistro,label,country,artist,isrc,units,saleReturn,customerPrice,cmaDiscount,royaltyPrice,royaltyCurrency,productType,customerPrice2,storeEarn,royaltyPriceEuros1,royaltyPriceEuros2) VALUES ('{$registro[12]}','iTunes','{$registro[7]}','{$registro[18]}','{$registro[5]}','{$registro[4]}','{$registro[9]}','{$registro[16]}','{$registro[22]}','{$registro[24]}','{$registro[10]}','{$registro[19]}','{$productType}','{$customerPrice2}',{$storeEarn},{$royaltyPriceEuros1},{$royaltyPriceEuros2});";
 						//$sql = " INSERT INTO $table_name (Idreferencia,channel,label,country,city,artist,album,trackVideoTitle,upc,isrc,reportDate,units,saleReturn,customerPrice,cmaDiscount,royaltyPrice,royaltyCurrency,royaltyEuros,watchViews,embedViews) VALUES ('{$registro['provider']}','{$registro['provider_contry']}','{$registro['vendor_identifier']}');";
-						$wpdb->query($sql);	
-
+						$wpdb->query($sql);
+						
 					}
 
 					include('template/msj.html');
