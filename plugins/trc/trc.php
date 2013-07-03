@@ -17,12 +17,15 @@ function agregar_scripts(){
     wp_register_style( 'ammapcss', plugins_url('statics/ammap/ammap/ammap.css',__FILE__));
     wp_register_style( 'estilo', plugins_url('statics/css/estilo.css',__FILE__));
     //Registro de js
+
     wp_register_script( $handle, $js );
     wp_register_script( 'jsworld', plugins_url('statics/ammap/ammap/maps/js/worldLow.js',__FILE__));
+    wp_register_script( 'jscharts', plugins_url('statics/amcharts/amcharts/amcharts.js',__FILE__));
 
     //Incluir
     wp_enqueue_script( $handle );
     wp_enqueue_script( 'jsworld' );
+    wp_enqueue_script( 'jscharts' );
     wp_enqueue_style( 'estilo' );
     wp_enqueue_style( 'ammapcss' );
 }
@@ -55,6 +58,12 @@ function muestra_reportes(){
 	}
 
 	include('template/reportes.html');	
+}
+
+function muestra_charts(){
+	$url=plugins_url('statics/amcharts/',__FILE__);
+
+	include('template/charts.html');	
 }
 
 function trc_instala(){
@@ -220,6 +229,7 @@ function trc_add_menu(){
 		//add_submenu_page( $parent_slug, $page_title, $menu_title, $capability, $menu_slug, $function );
 		add_submenu_page('qwery', 'Muestra contenido', 'Muestra contenido', 8, 'slug_segunda_opcion_de_menu', 'muestra_contenido');
 		add_submenu_page('qwery', 'Reportes', 'Reportes', 8, 'slug_tercera_opcion_de_menu', 'muestra_reportes');
+		add_submenu_page('qwery', 'Charts', 'Charts', 8, 'slug_cuarta_opcion_de_menu', 'muestra_charts');
 		//add_menu_page('saludo2', 'saludo2', 8, 'slug_menu', 'saludo');
 	}
 }
