@@ -1,0 +1,200 @@
+<h1>Ventas totales</h1>
+<script type="text/javascript">
+        
+            var chart;
+            var chartData = [];
+            var chartCursor;
+
+            AmCharts.ready(function () {
+                // generate some data first
+                generateChartData();
+
+                // SERIAL CHART    
+                chart = new AmCharts.AmSerialChart();
+                chart.pathToImages = "<?=$url;?>/amcharts/images/";
+                chart.zoomOutButton = {
+                    backgroundColor: '#000000',
+                    backgroundAlpha: 0.15
+                };
+                chart.dataProvider = chartData;
+                chart.categoryField = "date";
+
+                // listen for "dataUpdated" event (fired when chart is rendered) and call zoomChart method when it happens
+                chart.addListener("dataUpdated", zoomChart);
+
+                // AXES
+                // category
+                var categoryAxis = chart.categoryAxis;
+                categoryAxis.parseDates = true; // as our data is date-based, we set parseDates to true
+                categoryAxis.minPeriod = "DD"; // our data is daily, so we set minPeriod to DD
+                categoryAxis.dashLength = 1;
+                categoryAxis.gridAlpha = 0.15;
+                categoryAxis.axisColor = "#DADADA";
+
+
+                // AXES
+                // category                
+                var categoryAxis = chart.categoryAxis;
+                categoryAxis.parseDates = true; // as our data is date-based, we set parseDates to true
+                categoryAxis.minPeriod = "DD"; // our data is daily, so we set minPeriod to DD
+                categoryAxis.dashLength = 2;
+                categoryAxis.gridAlpha = 0.15;
+                categoryAxis.axisColor = "#000000";
+
+                // value                
+                // var valueAxis = new AmCharts.ValueAxis();
+                // valueAxis.axisAlpha = 0.2;
+                // valueAxis.dashLength = 1;
+                // chart.addValueAxis(valueAxis);
+
+
+                // first value axis (on the left)
+                var valueAxis = new AmCharts.ValueAxis();
+                valueAxis.axisColor = "#FF6600";
+                valueAxis.axisThickness = 2;
+                valueAxis.gridAlpha = 0;
+                chart.addValueAxis(valueAxis);
+
+                // second value axis (on the right) 
+                var valueAxis2 = new AmCharts.ValueAxis();
+                valueAxis2.position = "right"; // this line makes the axis to appear on the right
+                valueAxis2.axisColor = "#FCD202";
+                valueAxis2.gridAlpha = 0;
+                valueAxis2.axisThickness = 2;
+                chart.addValueAxis(valueAxis2);
+
+                // third value axis (on the left, detached)
+                valueAxis3 = new AmCharts.ValueAxis();
+                valueAxis3.offset = 50; // this line makes the axis to appear detached from plot area
+                valueAxis3.gridAlpha = 0;
+                valueAxis3.axisColor = "#B0DE09";
+                valueAxis3.axisThickness = 2;
+                chart.addValueAxis(valueAxis3);
+
+                // third value axis (on the left, detached)
+                valueAxis4 = new AmCharts.ValueAxis();
+                
+                valueAxis4.offset = 100; // this line makes the axis to appear detached from plot area
+                valueAxis4.gridAlpha = 0;
+                valueAxis4.axisColor = "#FF3399";
+                valueAxis4.axisThickness = 2;
+                chart.addValueAxis(valueAxis4);
+
+
+                // GRAPH
+                // var graph = new AmCharts.AmGraph();
+                // graph.title = "red line";
+                // graph.valueField = "visits";
+                // graph.bullet = "round";
+                // graph.bulletBorderColor = "#FFFFFF";
+                // graph.bulletBorderThickness = 2;
+                // graph.lineThickness = 2;
+                // graph.lineColor = "#b5030d";
+                // graph.negativeLineColor = "#0352b5";
+                // graph.hideBulletsCount = 50; // this makes the chart to hide bullets when there are more than 50 series in selection
+                // chart.addGraph(graph);
+
+
+                // first graph
+                var graph = new AmCharts.AmGraph();
+                graph.valueAxis = valueAxis; // we have to indicate which value axis should be used
+                graph.title = "Artista 1";
+                graph.valueField = "visits";
+                graph.bullet = "round";
+                graph.hideBulletsCount = 30;
+                chart.addGraph(graph);
+
+                // second graph                
+                var graph2 = new AmCharts.AmGraph();
+                graph2.valueAxis = valueAxis2; // we have to indicate which value axis should be used
+                graph2.title = "Artista 2";
+                graph2.valueField = "hits";
+                graph2.bullet = "square";
+                graph2.hideBulletsCount = 30;
+                chart.addGraph(graph2);
+
+                // third graph
+                var graph3 = new AmCharts.AmGraph();
+                graph3.valueAxis = valueAxis3; // we have to indicate which value axis should be used
+                graph3.valueField = "views";
+                graph3.title = "Artista 3";
+                graph3.bullet = "triangleUp";
+                graph3.hideBulletsCount = 30;
+                chart.addGraph(graph3);
+
+                // third graph
+                var graph4 = new AmCharts.AmGraph();
+                graph4.valueAxis = valueAxis4; // we have to indicate which value axis should be used
+                graph4.valueField = "views";
+                graph4.title = "Artista 4";
+                graph4.bullet = "triangleUp";
+                graph4.hideBulletsCount = 30;
+                chart.addGraph(graph4);
+
+                // CURSOR
+                chartCursor = new AmCharts.ChartCursor();
+                chartCursor.cursorPosition = "mouse";
+                chart.addChartCursor(chartCursor);
+
+                // SCROLLBAR
+                var chartScrollbar = new AmCharts.ChartScrollbar();
+                //chartScrollbar.graph = graph;
+                chartScrollbar.scrollbarHeight = 40;
+                chartScrollbar.color = "#000000";
+                chartScrollbar.autoGridCount = true;
+                chart.addChartScrollbar(chartScrollbar);
+
+                // LEGEND
+                var legend = new AmCharts.AmLegend();
+                legend.marginLeft = 110;
+                chart.addLegend(legend);
+
+                // WRITE
+                chart.write("chartdiv");
+            });
+
+            // generate some random data, quite different range
+            function generateChartData() {
+                var firstDate = new Date();
+                firstDate.setDate(firstDate.getDate() - 50);
+
+                for (var i = 0; i < 50; i++) {
+                    var newDate = new Date(firstDate);
+                    newDate.setDate(newDate.getDate() + i);
+
+                    var visits = Math.round(Math.random() * 40) + 100;
+                    var hits = Math.round(Math.random() * 80) + 500;
+                    var views = Math.round(Math.random() * 6000);
+
+                    chartData.push({
+                        date: newDate,
+                        visits: visits,
+                        hits: hits,
+                        views: views
+                    });
+                }
+            }
+
+            // this method is called when chart is first inited as we listen for "dataUpdated" event
+            function zoomChart() {
+                // different zoom methods can be used - zoomToIndexes, zoomToDates, zoomToCategoryValues
+                chart.zoomToIndexes(chartData.length - 40, chartData.length - 1);
+            }
+            
+            // changes cursor mode from pan to select
+            function setPanSelect() {
+                if (document.getElementById("rb1").checked) {
+                    chartCursor.pan = false;
+                    chartCursor.zoomable = true;
+                    
+                } else {
+                    chartCursor.pan = true;
+                }
+                chart.validateNow();
+            }            
+        </script>
+<div id="chartdiv" style="width: 100%; height: 400px;"></div>
+<div style="margin-left:35px;">
+    <input type="radio" checked="true" name="group" id="rb1" onclick="setPanSelect()">Select
+    <input type="radio" name="group" id="rb2" onclick="setPanSelect()">Pan
+</div>  
