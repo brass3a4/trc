@@ -86,10 +86,11 @@ function trc_instala(){
   `upc` VARCHAR(45) NULL ,
   `isrc` VARCHAR(45) NULL ,
   `reportDate` DATE NULL ,
+  `downloadDate` DATE NULL ,
   `units` INT NULL ,
   `saleReturn` VARCHAR(45) NULL ,
   `customerPrice` FLOAT NULL ,
-  `cmaDiscount` FLOAT NULL ,
+  `cmaDiscount` DOUBLE NULL ,
   `royaltyPrice` FLOAT NULL ,
   `royaltyCurrency` VARCHAR(4) NULL ,
   `royaltyEuros` FLOAT NULL ,
@@ -164,6 +165,11 @@ function conversor_divisas($divisa_origen, $divisa_destino, $cantidad) {
     
 }//END FUNCTION
 
+//Esta función pasa la fecha en formato mm/dd/aaaa a formato aaaa/mm/dd 
+function invertirFecha( $fecha ){
+	return date("Y-m-d",strtotime($fecha));
+}
+
 function guarda_columnas($post,$obtener_datos){
 	
 	global $wpdb;
@@ -185,7 +191,9 @@ function guarda_columnas($post,$obtener_datos){
 						$storeEarn = (float) $registro[22]* (float) $registro[10];
 						$royaltyPriceEuros1 = conversor_divisas($registro[19],'EUR',$registro[10]);
 						$royaltyPriceEuros2 = ($registro[16] == 'S') ? $royaltyPriceEuros1 : 0 ;
-						$sql = "INSERT INTO $table_name (Idreferencia,tipoRegistro,label,country,artist,isrc,units,saleReturn,customerPrice,cmaDiscount,royaltyPrice,royaltyCurrency,productType,customerPrice2,storeEarn,royaltyPriceEuros1,royaltyPriceEuros2) VALUES ('{$registro[12]}','iTunes','{$registro[7]}','{$registro[18]}','{$registro[5]}','{$registro[4]}','{$registro[9]}','{$registro[16]}','{$registro[22]}','{$registro[24]}','{$registro[10]}','{$registro[19]}','{$productType}','{$customerPrice2}',{$storeEarn},{$royaltyPriceEuros1},{$royaltyPriceEuros2});";
+						$downloadDate = invertirFecha($registro[11]);
+						
+						$sql = "INSERT INTO $table_name (Idreferencia,tipoRegistro,label,country,artist,isrc,units,saleReturn,customerPrice,cmaDiscount,royaltyPrice,royaltyCurrency,productType,customerPrice2,storeEarn,royaltyPriceEuros1,royaltyPriceEuros2,downloadDate) VALUES ('{$registro[12]}','iTunes','{$registro[7]}','{$registro[18]}','{$registro[5]}','{$registro[4]}','{$registro[9]}','{$registro[16]}','{$registro[22]}','{$registro[24]}','{$registro[10]}','{$registro[19]}','{$productType}','{$customerPrice2}',{$storeEarn},{$royaltyPriceEuros1},{$royaltyPriceEuros2},'{$downloadDate}');";
 						//$sql = " INSERT INTO $table_name (Idreferencia,channel,label,country,city,artist,album,trackVideoTitle,upc,isrc,reportDate,units,saleReturn,customerPrice,cmaDiscount,royaltyPrice,royaltyCurrency,royaltyEuros,watchViews,embedViews) VALUES ('{$registro['provider']}','{$registro['provider_contry']}','{$registro['vendor_identifier']}');";
 						$wpdb->query($sql);
 						

@@ -141,6 +141,7 @@ CREATE  TABLE IF NOT EXISTS `trc`.`registros` (
   `upc` VARCHAR(45) NULL ,
   `isrc` VARCHAR(45) NULL ,
   `reportDate` DATE NULL ,
+  `downloadDate` DATE NULL ,
   `units` INT NULL ,
   `saleReturn` VARCHAR(45) NULL ,
   `customerPrice` FLOAT NULL ,

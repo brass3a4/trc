@@ -6,7 +6,7 @@
         var map = new AmCharts.AmMap();
         // set path to images
         map.pathToImages = "<?=$url;?>/ammap/images/";
-
+        
 
         map.colorSteps = 10;
         
@@ -15,6 +15,11 @@
         map.backgroundAlpha = 1;
 
         map.mouseWheelZoomEnabled = true;
+
+        
+
+
+
         /* create data provider object
          mapVar tells the map name of the variable of the map data. You have to
          view source of the map file you included in order to find the name of the 
@@ -30,7 +35,7 @@
 		    areas:[ 
                     <?php
                         foreach ($res as $key => $value) {
-                            echo '{id:"'.$key.'", value:"'.$value.'"},';
+                            echo '{id:"'.$key.'", value:"'.$value.'", description:"'.rand(1,100).'", percent: "'.rand(1000,10000).'"},';
                         }
                         
                      ?>
@@ -62,6 +67,13 @@
         zoomControl.maxZoomLevel = 10;
         zoomControl.minZoomLevel = 1;
         map.zoomControl = zoomControl
+
+        map.areasSettings = {
+            unlistedAreasColor: "#DDDDDD",
+            rollOverOutlineColor: "#FFFFFF",
+            rollOverColor: "#CC0000",
+            balloonText: "[[title]] \n Dólares:[[percent]] \n Descargas: [[value]] \n Streaming: [[description]] "
+        };
 
         var mapArea = new AmCharts.MapArea();
         mapArea.fixedSize = true;
